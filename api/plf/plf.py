@@ -16,7 +16,7 @@ MIN_YEAR = 2012
 
 class NodeHistory(Resource):
     @staticmethod
-    def get_index(source_year, target_year, index, future=True):
+    def compute_indices_per_year(source_year, target_year, index, future=True):
         content = requests.get('{}/plf_mappings/plf{}_to_plf{}.csv'.format(
             MAPPINGS_URL,
             source_year,
@@ -52,7 +52,7 @@ class NodeHistory(Resource):
         # Fetch mapping in the future
         for current_year in range(year, MAX_YEAR):
             print(current_year, current_year+1)
-            next_index = NodeHistory.get_index(current_year, current_year+1, node_id_history[current_year]['index'], future=True)
+            next_index = NodeHistory.compute_indices_per_year(current_year, current_year+1, node_id_history[current_year]['index'], future=True)
             if next_index:
                 node_id_history[current_year+1]['index'] = next_index
             else:
@@ -61,7 +61,7 @@ class NodeHistory(Resource):
         # Fetch mapping in the past
         for current_year in list(reversed(range(MIN_YEAR, year))):
             print(current_year, current_year+1)
-            next_index = NodeHistory.get_index(current_year, current_year+1, node_id_history[current_year+1]['index'], future=False)
+            next_index = NodeHistory.compute_indices_per_year(current_year, current_year+1, node_id_history[current_year+1]['index'], future=False)
             if next_index:
                 node_id_history[current_year]['index'] = next_index
             else:
