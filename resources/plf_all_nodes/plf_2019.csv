@@ -1,0 +1,1181 @@
+Node index;Type mission;Code type mission;Mission;Code mission;Programme;Code programme;Action;Code action;Sous-action;Code sous-action
+0;Budget général;1;;;;;;;;;
+1;Budgets annexes;2;;;;;;;;;
+2;Comptes d'affectation spéciale;3;;;;;;;;;
+3;Comptes de concours financiers;4;;;;;;;;;
+4;Budget général;1;Action et transformation publiques;TR;;;;;;;
+5;Budget général;1;Action extérieure de l'État;AA;;;;;;;
+6;Budget général;1;Administration générale et territoriale de l'État;AB;;;;;;;
+7;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;;;;;;;
+8;Budget général;1;Aide publique au développement;AD;;;;;;;
+9;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;;;;;;;
+10;Budget général;1;Cohésion des territoires;VA;;;;;;;
+11;Budget général;1;Conseil et contrôle de l'État;CA;;;;;;;
+12;Budget général;1;Crédits non répartis;PC;;;;;;;
+13;Budget général;1;Culture;CB;;;;;;;
+14;Budget général;1;Défense;DA;;;;;;;
+15;Budget général;1;Direction de l'action du Gouvernement;DC;;;;;;;
+16;Budget général;1;Écologie, développement et mobilité durables;TA;;;;;;;
+17;Budget général;1;Économie;DB;;;;;;;
+18;Budget général;1;Engagements financiers de l'État;EB;;;;;;;
+19;Budget général;1;Enseignement scolaire;EC;;;;;;;
+20;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;;;;;;;
+21;Budget général;1;Immigration, asile et intégration;IA;;;;;;;
+22;Budget général;1;Investissements d'avenir;AV;;;;;;;
+23;Budget général;1;Justice;JA;;;;;;;
+24;Budget général;1;Médias, livre et industries culturelles;MA;;;;;;;
+25;Budget général;1;Outre-mer;OA;;;;;;;
+26;Budget général;1;Pouvoirs publics;PB;;;;;;;
+27;Budget général;1;Recherche et enseignement supérieur;RA;;;;;;;
+28;Budget général;1;Régimes sociaux et de retraite;RB;;;;;;;
+29;Budget général;1;Relations avec les collectivités territoriales;RC;;;;;;;
+30;Budget général;1;Remboursements et dégrèvements;RD;;;;;;;
+31;Budget général;1;Santé;SA;;;;;;;
+32;Budget général;1;Sécurités;SB;;;;;;;
+33;Budget général;1;Solidarité, insertion et égalité des chances;SE;;;;;;;
+34;Budget général;1;Sport, jeunesse et vie associative;SF;;;;;;;
+35;Budget général;1;Travail et emploi;TB;;;;;;;
+36;Budgets annexes;2;Contrôle et exploitation aériens;XC;;;;;;;
+37;Budgets annexes;2;Publications officielles et information administrative;XJ;;;;;;;
+38;Comptes d'affectation spéciale;3;Aides à l'acquisition de véhicules propres;YL;;;;;;;
+39;Comptes d'affectation spéciale;3;Contrôle de la circulation et du stationnement routiers;YE;;;;;;;
+40;Comptes d'affectation spéciale;3;Développement agricole et rural;YF;;;;;;;
+41;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;;;;;;;
+42;Comptes d'affectation spéciale;3;Financement national du développement et de la modernisation de l'apprentissage;YJ;;;;;;;
+43;Comptes d'affectation spéciale;3;Gestion du patrimoine immobilier de l'État;YB;;;;;;;
+44;Comptes d'affectation spéciale;3;Participation de la France au désendettement de la Grèce;YM;;;;;;;
+45;Comptes d'affectation spéciale;3;Participations financières de l'État;YC;;;;;;;
+46;Comptes d'affectation spéciale;3;Pensions;YD;;;;;;;
+47;Comptes d'affectation spéciale;3;Services nationaux de transport conventionnés de voyageurs;YI;;;;;;;
+48;Comptes d'affectation spéciale;3;Transition énergétique;YN;;;;;;;
+49;Comptes de concours financiers;4;Accords monétaires internationaux;ZA;;;;;;;
+50;Comptes de concours financiers;4;Avances à divers services de l'État ou organismes gérant des services publics;ZB;;;;;;;
+51;Comptes de concours financiers;4;Avances à l'audiovisuel public;ZD;;;;;;;
+52;Comptes de concours financiers;4;Avances aux collectivités territoriales;ZC;;;;;;;
+53;Comptes de concours financiers;4;Prêts à des États étrangers;ZE;;;;;;;
+54;Comptes de concours financiers;4;Prêts et avances à des particuliers ou à des organismes privés;ZF;;;;;;;
+55;Budget général;1;Action et transformation publiques;TR;Rénovation des cités administratives et autres sites domaniaux multi-occupants;348;;;;;
+56;Budget général;1;Action et transformation publiques;TR;Fonds pour la transformation de l'action publique;349;;;;;
+57;Budget général;1;Action et transformation publiques;TR;Fonds d'accompagnement interministériel Ressources humaines;351;;;;;
+58;Budget général;1;Action extérieure de l'État;AA;Action de la France en Europe et dans le monde;105;;;;;
+59;Budget général;1;Action extérieure de l'État;AA;Diplomatie culturelle et d'influence;185;;;;;
+60;Budget général;1;Action extérieure de l'État;AA;Français à l'étranger et affaires consulaires;151;;;;;
+61;Budget général;1;Action extérieure de l'État;AA;Présidence française du G7;347;;;;;
+62;Budget général;1;Administration générale et territoriale de l'État;AB;Administration territoriale;307;;;;;
+63;Budget général;1;Administration générale et territoriale de l'État;AB;Vie politique, cultuelle et associative;232;;;;;
+64;Budget général;1;Administration générale et territoriale de l'État;AB;Conduite et pilotage des politiques de l'intérieur;216;;;;;
+65;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;149;;;;;
+66;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Sécurité et qualité sanitaires de l'alimentation;206;;;;;
+67;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Conduite et pilotage des politiques de l'agriculture;215;;;;;
+68;Budget général;1;Aide publique au développement;AD;Aide économique et financière au développement;110;;;;;
+69;Budget général;1;Aide publique au développement;AD;Solidarité à l'égard des pays en développement;209;;;;;
+70;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Liens entre la Nation et son armée;167;;;;;
+71;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;;;;;
+72;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la seconde guerre mondiale;158;;;;;
+73;Budget général;1;Cohésion des territoires;VA;Hébergement, parcours vers le logement et insertion des personnes vulnérables;177;;;;;
+74;Budget général;1;Cohésion des territoires;VA;Aide à l'accès au logement;109;;;;;
+75;Budget général;1;Cohésion des territoires;VA;Urbanisme, territoires et amélioration de l'habitat;135;;;;;
+76;Budget général;1;Cohésion des territoires;VA;Impulsion et coordination de la politique d'aménagement du territoire;112;;;;;
+77;Budget général;1;Cohésion des territoires;VA;Interventions territoriales de l'État;162;;;;;
+78;Budget général;1;Cohésion des territoires;VA;Politique de la ville;147;;;;;
+79;Budget général;1;Conseil et contrôle de l'État;CA;Conseil d'État et autres juridictions administratives;165;;;;;
+80;Budget général;1;Conseil et contrôle de l'État;CA;Conseil économique, social et environnemental;126;;;;;
+81;Budget général;1;Conseil et contrôle de l'État;CA;Cour des comptes et autres juridictions financières;164;;;;;
+82;Budget général;1;Conseil et contrôle de l'État;CA;Haut Conseil des finances publiques;340;;;;;
+83;Budget général;1;Crédits non répartis;PC;Provision relative aux rémunérations publiques;551;;;;;
+84;Budget général;1;Crédits non répartis;PC;Dépenses accidentelles et imprévisibles;552;;;;;
+85;Budget général;1;Culture;CB;Patrimoines;175;;;;;
+86;Budget général;1;Culture;CB;Création;131;;;;;
+87;Budget général;1;Culture;CB;Transmission des savoirs et démocratisation de la culture;224;;;;;
+88;Budget général;1;Défense;DA;Environnement et prospective de la politique de défense;144;;;;;
+89;Budget général;1;Défense;DA;Préparation et emploi des forces;178;;;;;
+90;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;;;;;
+91;Budget général;1;Défense;DA;Équipement des forces;146;;;;;
+92;Budget général;1;Direction de l'action du Gouvernement;DC;Coordination du travail gouvernemental;129;;;;;
+93;Budget général;1;Direction de l'action du Gouvernement;DC;Protection des droits et libertés;308;;;;;
+94;Budget général;1;Direction de l'action du Gouvernement;DC;Moyens mutualisés des administrations déconcentrées;333;;;;;
+95;Budget général;1;Écologie, développement et mobilité durables;TA;Infrastructures et services de transports;203;;;;;
+96;Budget général;1;Écologie, développement et mobilité durables;TA;Affaires maritimes;205;;;;;
+97;Budget général;1;Écologie, développement et mobilité durables;TA;Paysages, eau et biodiversité;113;;;;;
+98;Budget général;1;Écologie, développement et mobilité durables;TA;Expertise, information géographique et météorologie;159;;;;;
+99;Budget général;1;Écologie, développement et mobilité durables;TA;Prévention des risques;181;;;;;
+100;Budget général;1;Écologie, développement et mobilité durables;TA;Énergie, climat et après-mines;174;;;;;
+101;Budget général;1;Écologie, développement et mobilité durables;TA;Service public de l'énergie;345;;;;;
+102;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;;;;;
+103;Budget général;1;Économie;DB;Développement des entreprises et régulations;134;;;;;
+104;Budget général;1;Économie;DB;Plan France Très haut débit;343;;;;;
+105;Budget général;1;Économie;DB;Statistiques et études économiques;220;;;;;
+106;Budget général;1;Économie;DB;Stratégie économique et fiscale;305;;;;;
+107;Budget général;1;Engagements financiers de l'État;EB;Charge de la dette et trésorerie de l'État (crédits évaluatifs);117;;;;;
+108;Budget général;1;Engagements financiers de l'État;EB;Appels en garantie de l'État (crédits évaluatifs);114;;;;;
+109;Budget général;1;Engagements financiers de l'État;EB;Épargne;145;;;;;
+110;Budget général;1;Engagements financiers de l'État;EB;Dotation du Mécanisme européen de stabilité;336;;;;;
+111;Budget général;1;Engagements financiers de l'État;EB;Augmentation de capital de la Banque européenne d'investissement;338;;;;;
+112;Budget général;1;Engagements financiers de l'État;EB;Fonds de soutien relatif aux prêts et contrats financiers structurés à risque;344;;;;;
+113;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du premier degré;140;;;;;
+114;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du second degré;141;;;;;
+115;Budget général;1;Enseignement scolaire;EC;Vie de l'élève;230;;;;;
+116;Budget général;1;Enseignement scolaire;EC;Enseignement privé du premier et du second degrés;139;;;;;
+117;Budget général;1;Enseignement scolaire;EC;Soutien de la politique de l'éducation nationale;214;;;;;
+118;Budget général;1;Enseignement scolaire;EC;Enseignement technique agricole;143;;;;;
+119;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Gestion fiscale et financière de l'État et du secteur public local;156;;;;;
+120;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Conduite et pilotage des politiques économiques et financières;218;;;;;
+121;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Facilitation et sécurisation des échanges;302;;;;;
+122;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Fonction publique;148;;;;;
+123;Budget général;1;Immigration, asile et intégration;IA;Immigration et asile;303;;;;;
+124;Budget général;1;Immigration, asile et intégration;IA;Intégration et accès à la nationalité française;104;;;;;
+125;Budget général;1;Investissements d'avenir;AV;Soutien des progrès de l'enseignement et de la recherche;421;;;;;
+126;Budget général;1;Investissements d'avenir;AV;Valorisation de la recherche;422;;;;;
+127;Budget général;1;Investissements d'avenir;AV;Accélération de la modernisation des entreprises;423;;;;;
+128;Budget général;1;Justice;JA;Justice judiciaire;166;;;;;
+129;Budget général;1;Justice;JA;Administration pénitentiaire;107;;;;;
+130;Budget général;1;Justice;JA;Protection judiciaire de la jeunesse;182;;;;;
+131;Budget général;1;Justice;JA;Accès au droit et à la justice;101;;;;;
+132;Budget général;1;Justice;JA;Conduite et pilotage de la politique de la justice;310;;;;;
+133;Budget général;1;Justice;JA;Conseil supérieur de la magistrature;335;;;;;
+134;Budget général;1;Médias, livre et industries culturelles;MA;Presse et médias;180;;;;;
+135;Budget général;1;Médias, livre et industries culturelles;MA;Livre et industries culturelles;334;;;;;
+136;Budget général;1;Outre-mer;OA;Emploi outre-mer;138;;;;;
+137;Budget général;1;Outre-mer;OA;Conditions de vie outre-mer;123;;;;;
+138;Budget général;1;Pouvoirs publics;PB;Présidence de la République;501;;;;;
+139;Budget général;1;Pouvoirs publics;PB;Assemblée nationale;511;;;;;
+140;Budget général;1;Pouvoirs publics;PB;Sénat;521;;;;;
+141;Budget général;1;Pouvoirs publics;PB;La Chaîne parlementaire;541;;;;;
+142;Budget général;1;Pouvoirs publics;PB;Indemnités des représentants français au Parlement européen;542;;;;;
+143;Budget général;1;Pouvoirs publics;PB;Conseil constitutionnel;531;;;;;
+144;Budget général;1;Pouvoirs publics;PB;Haute Cour;532;;;;;
+145;Budget général;1;Pouvoirs publics;PB;Cour de justice de la République;533;;;;;
+146;Budget général;1;Recherche et enseignement supérieur;RA;Formations supérieures et recherche universitaire;150;;;;;
+147;Budget général;1;Recherche et enseignement supérieur;RA;Vie étudiante;231;;;;;
+148;Budget général;1;Recherche et enseignement supérieur;RA;Recherches scientifiques et technologiques pluridisciplinaires;172;;;;;
+149;Budget général;1;Recherche et enseignement supérieur;RA;Recherche spatiale;193;;;;;
+150;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;;;;;
+151;Budget général;1;Recherche et enseignement supérieur;RA;Recherche et enseignement supérieur en matière économique et industrielle;192;;;;;
+152;Budget général;1;Recherche et enseignement supérieur;RA;Recherche duale (civile et militaire);191;;;;;
+153;Budget général;1;Recherche et enseignement supérieur;RA;Recherche culturelle et culture scientifique;186;;;;;
+154;Budget général;1;Recherche et enseignement supérieur;RA;Enseignement supérieur et recherche agricoles;142;;;;;
+155;Budget général;1;Régimes sociaux et de retraite;RB;Régimes sociaux et de retraite des transports terrestres;198;;;;;
+156;Budget général;1;Régimes sociaux et de retraite;RB;Régimes de retraite et de sécurité sociale des marins;197;;;;;
+157;Budget général;1;Régimes sociaux et de retraite;RB;Régimes de retraite des mines, de la SEITA et divers;195;;;;;
+158;Budget général;1;Relations avec les collectivités territoriales;RC;Concours financiers aux collectivités territoriales et à leurs groupements;119;;;;;
+159;Budget général;1;Relations avec les collectivités territoriales;RC;Concours spécifiques et administration;122;;;;;
+160;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;;;;;
+161;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs);201;;;;;
+162;Budget général;1;Santé;SA;Prévention, sécurité sanitaire et offre de soins;204;;;;;
+163;Budget général;1;Santé;SA;Protection maladie;183;;;;;
+164;Budget général;1;Sécurités;SB;Police nationale;176;;;;;
+165;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;;;;;
+166;Budget général;1;Sécurités;SB;Sécurité et éducation routières;207;;;;;
+167;Budget général;1;Sécurités;SB;Sécurité civile;161;;;;;
+168;Budget général;1;Solidarité, insertion et égalité des chances;SE;Inclusion sociale et protection des personnes;304;;;;;
+169;Budget général;1;Solidarité, insertion et égalité des chances;SE;Handicap et dépendance;157;;;;;
+170;Budget général;1;Solidarité, insertion et égalité des chances;SE;Égalité entre les femmes et les hommes;137;;;;;
+171;Budget général;1;Solidarité, insertion et égalité des chances;SE;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;124;;;;;
+172;Budget général;1;Sport, jeunesse et vie associative;SF;Sport;219;;;;;
+173;Budget général;1;Sport, jeunesse et vie associative;SF;Jeunesse et vie associative;163;;;;;
+174;Budget général;1;Sport, jeunesse et vie associative;SF;Jeux olympiques et paralympiques 2024;350;;;;;
+175;Budget général;1;Travail et emploi;TB;Accès et retour à l'emploi;102;;;;;
+176;Budget général;1;Travail et emploi;TB;Accompagnement des mutations économiques et développement de l'emploi;103;;;;;
+177;Budget général;1;Travail et emploi;TB;Amélioration de la qualité de l'emploi et des relations du travail;111;;;;;
+178;Budget général;1;Travail et emploi;TB;Conception, gestion et évaluation des politiques de l'emploi et du travail;155;;;;;
+179;Budgets annexes;2;Contrôle et exploitation aériens;XC;Soutien aux prestations de l'aviation civile;613;;;;;
+180;Budgets annexes;2;Contrôle et exploitation aériens;XC;Navigation aérienne;612;;;;;
+181;Budgets annexes;2;Contrôle et exploitation aériens;XC;Transports aériens, surveillance et certification;614;;;;;
+182;Budgets annexes;2;Publications officielles et information administrative;XJ;Édition et diffusion;623;;;;;
+183;Budgets annexes;2;Publications officielles et information administrative;XJ;Pilotage et ressources humaines;624;;;;;
+184;Comptes d'affectation spéciale;3;Aides à l'acquisition de véhicules propres;YL;Contribution au financement de l'attribution d'aides à l'acquisition de véhicules propres;791;;;;;
+185;Comptes d'affectation spéciale;3;Aides à l'acquisition de véhicules propres;YL;Contribution au financement de l'attribution d'aides au retrait de véhicules polluants;792;;;;;
+186;Comptes d'affectation spéciale;3;Contrôle de la circulation et du stationnement routiers;YE;Structures et dispositifs de sécurité routière;751;;;;;
+187;Comptes d'affectation spéciale;3;Contrôle de la circulation et du stationnement routiers;YE;Contrôle et modernisation de la politique de la circulation et du stationnement routiers;753;;;;;
+188;Comptes d'affectation spéciale;3;Contrôle de la circulation et du stationnement routiers;YE;Contribution à l'équipement des collectivités territoriales pour l'amélioration des transports en commun, de la sécurité et de la circulation routières;754;;;;;
+189;Comptes d'affectation spéciale;3;Contrôle de la circulation et du stationnement routiers;YE;Désendettement de l'État;755;;;;;
+190;Comptes d'affectation spéciale;3;Développement agricole et rural;YF;Développement et transfert en agriculture;775;;;;;
+191;Comptes d'affectation spéciale;3;Développement agricole et rural;YF;Recherche appliquée et innovation en agriculture;776;;;;;
+192;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Électrification rurale;793;;;;;
+193;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Opérations de maîtrise de la demande délectricité, de production délectricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées;794;;;;;
+194;Comptes d'affectation spéciale;3;Financement national du développement et de la modernisation de l'apprentissage;YJ;Répartition régionale de la ressource consacrée au développement de l'apprentissage;787;;;;;
+195;Comptes d'affectation spéciale;3;Financement national du développement et de la modernisation de l'apprentissage;YJ;Correction financière des disparités régionales de taxe d'apprentissage et incitations au développement de l'apprentissage;790;;;;;
+196;Comptes d'affectation spéciale;3;Gestion du patrimoine immobilier de l'État;YB;Contribution des cessions immobilières au désendettement de l'État;721;;;;;
+197;Comptes d'affectation spéciale;3;Gestion du patrimoine immobilier de l'État;YB;Opérations immobilières et entretien des bâtiments de l'État;723;;;;;
+198;Comptes d'affectation spéciale;3;Participation de la France au désendettement de la Grèce;YM;Versement de la France à la Grèce au titre de la restitution à cet État des revenus perçus sur les titres grecs;795;;;;;
+199;Comptes d'affectation spéciale;3;Participation de la France au désendettement de la Grèce;YM;Rétrocessions de trop-perçus à la Banque de France;796;;;;;
+200;Comptes d'affectation spéciale;3;Participations financières de l'État;YC;Opérations en capital intéressant les participations financières de l'État;731;;;;;
+201;Comptes d'affectation spéciale;3;Participations financières de l'État;YC;Désendettement de l'État et d'établissements publics de l'État;732;;;;;
+202;Comptes d'affectation spéciale;3;Pensions;YD;Pensions civiles et militaires de retraite et allocations temporaires d'invalidité;741;;;;;
+203;Comptes d'affectation spéciale;3;Pensions;YD;Ouvriers des établissements industriels de l'État;742;;;;;
+204;Comptes d'affectation spéciale;3;Pensions;YD;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;743;;;;;
+205;Comptes d'affectation spéciale;3;Services nationaux de transport conventionnés de voyageurs;YI;Exploitation des services nationaux de transport conventionnés;785;;;;;
+206;Comptes d'affectation spéciale;3;Services nationaux de transport conventionnés de voyageurs;YI;Matériel roulant des services nationaux de transport conventionnés;786;;;;;
+207;Comptes d'affectation spéciale;3;Transition énergétique;YN;Soutien à la transition énergétique;764;;;;;
+208;Comptes d'affectation spéciale;3;Transition énergétique;YN;Engagements financiers liés à la transition énergétique;765;;;;;
+209;Comptes de concours financiers;4;Accords monétaires internationaux;ZA;Relations avec l'Union monétaire ouest-africaine;811;;;;;
+210;Comptes de concours financiers;4;Accords monétaires internationaux;ZA;Relations avec l'Union monétaire d'Afrique centrale;812;;;;;
+211;Comptes de concours financiers;4;Accords monétaires internationaux;ZA;Relations avec l'Union des Comores;813;;;;;
+212;Comptes de concours financiers;4;Avances à divers services de l'État ou organismes gérant des services publics;ZB;Avances à l'Agence de services et de paiement, au titre du préfinancement des aides communautaires de la politique agricole commune;821;;;;;
+213;Comptes de concours financiers;4;Avances à divers services de l'État ou organismes gérant des services publics;ZB;Avances à des organismes distincts de l'État et gérant des services publics;823;;;;;
+214;Comptes de concours financiers;4;Avances à divers services de l'État ou organismes gérant des services publics;ZB;Avances à des services de l'État;824;;;;;
+215;Comptes de concours financiers;4;Avances à divers services de l'État ou organismes gérant des services publics;ZB;Avances à l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales (ONIAM) au titre de l'indemnisation des victimes du Benfluorex;825;;;;;
+216;Comptes de concours financiers;4;Avances à l'audiovisuel public;ZD;France Télévisions;841;;;;;
+217;Comptes de concours financiers;4;Avances à l'audiovisuel public;ZD;ARTE France;842;;;;;
+218;Comptes de concours financiers;4;Avances à l'audiovisuel public;ZD;Radio France;843;;;;;
+219;Comptes de concours financiers;4;Avances à l'audiovisuel public;ZD;France Médias Monde;844;;;;;
+220;Comptes de concours financiers;4;Avances à l'audiovisuel public;ZD;Institut national de l'audiovisuel;845;;;;;
+221;Comptes de concours financiers;4;Avances à l'audiovisuel public;ZD;TV5 Monde;847;;;;;
+222;Comptes de concours financiers;4;Avances aux collectivités territoriales;ZC;Avances aux collectivités et établissements publics, et à la Nouvelle-Calédonie;832;;;;;
+223;Comptes de concours financiers;4;Avances aux collectivités territoriales;ZC;Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes;833;;;;;
+224;Comptes de concours financiers;4;Prêts à des États étrangers;ZE;Prêts à des États étrangers en vue de faciliter la vente de biens et de services concourant au développement du commerce extérieur de la France;851;;;;;
+225;Comptes de concours financiers;4;Prêts à des États étrangers;ZE;Prêts à des États étrangers pour consolidation de dettes envers la France;852;;;;;
+226;Comptes de concours financiers;4;Prêts à des États étrangers;ZE;Prêts à l'Agence française de développement en vue de favoriser le développement économique et social dans des États étrangers;853;;;;;
+227;Comptes de concours financiers;4;Prêts à des États étrangers;ZE;Prêts aux États membres de l'Union européenne dont la monnaie est l'euro;854;;;;;
+228;Comptes de concours financiers;4;Prêts et avances à des particuliers ou à des organismes privés;ZF;Prêts et avances pour le logement des agents de l'État;861;;;;;
+229;Comptes de concours financiers;4;Prêts et avances à des particuliers ou à des organismes privés;ZF;Prêts pour le développement économique et social;862;;;;;
+230;Comptes de concours financiers;4;Prêts et avances à des particuliers ou à des organismes privés;ZF;Prêts et avances pour le développement du commerce avec l'Iran;868;;;;;
+231;Comptes de concours financiers;4;Prêts et avances à des particuliers ou à des organismes privés;ZF;Prêts à la société concessionnaire de la liaison express entre Paris et l'aéroport Paris-Charles de Gaulle;869;;;;;
+232;Budget général;1;Action et transformation publiques;TR;Rénovation des cités administratives et autres sites domaniaux multi-occupants;348;Etudes;11;;;
+233;Budget général;1;Action et transformation publiques;TR;Rénovation des cités administratives et autres sites domaniaux multi-occupants;348;Travaux et gros entretien à la charge du propriétaire;12;;;
+234;Budget général;1;Action et transformation publiques;TR;Rénovation des cités administratives et autres sites domaniaux multi-occupants;348;Acquisitions, construction;13;;;
+235;Budget général;1;Action et transformation publiques;TR;Fonds pour la transformation de l'action publique;349;Fonds pour la transformation de laction publique;1;;;
+236;Budget général;1;Action et transformation publiques;TR;Fonds d'accompagnement interministériel Ressources humaines;351;Accompagnement interministériel Ressources humaines;1;;;
+237;Budget général;1;Action extérieure de l'État;AA;Action de la France en Europe et dans le monde;105;Coordination de l'action diplomatique;1;;;
+238;Budget général;1;Action extérieure de l'État;AA;Action de la France en Europe et dans le monde;105;Action européenne;2;;;
+239;Budget général;1;Action extérieure de l'État;AA;Action de la France en Europe et dans le monde;105;Contributions internationales;4;;;
+240;Budget général;1;Action extérieure de l'État;AA;Action de la France en Europe et dans le monde;105;Coopération de sécurité et de défense;5;;;
+241;Budget général;1;Action extérieure de l'État;AA;Action de la France en Europe et dans le monde;105;Soutien;6;;;
+242;Budget général;1;Action extérieure de l'État;AA;Action de la France en Europe et dans le monde;105;Réseau diplomatique;7;;;
+243;Budget général;1;Action extérieure de l'État;AA;Diplomatie culturelle et d'influence;185;Appui au réseau;1;;;
+244;Budget général;1;Action extérieure de l'État;AA;Diplomatie culturelle et d'influence;185;Coopération culturelle et promotion du français;2;;;
+245;Budget général;1;Action extérieure de l'État;AA;Diplomatie culturelle et d'influence;185;Objectifs de développement durable;3;;;
+246;Budget général;1;Action extérieure de l'État;AA;Diplomatie culturelle et d'influence;185;Enseignement supérieur et recherche;4;;;
+247;Budget général;1;Action extérieure de l'État;AA;Diplomatie culturelle et d'influence;185;Agence pour l'enseignement français à l'étranger;5;;;
+248;Budget général;1;Action extérieure de l'État;AA;Diplomatie culturelle et d'influence;185;Dépenses de personnel concourant au programme "Diplomatie culturelle et d'influence";6;;;
+249;Budget général;1;Action extérieure de l'État;AA;Diplomatie culturelle et d'influence;185;Diplomatie économique et développement du tourisme;7;;;
+250;Budget général;1;Action extérieure de l'État;AA;Français à l'étranger et affaires consulaires;151;Offre d'un service public de qualité aux Français à l'étranger;1;;;
+251;Budget général;1;Action extérieure de l'État;AA;Français à l'étranger et affaires consulaires;151;Accès des élèves français au réseau AEFE;2;;;
+252;Budget général;1;Action extérieure de l'État;AA;Français à l'étranger et affaires consulaires;151;Instruction des demandes de visa;3;;;
+253;Budget général;1;Action extérieure de l'État;AA;Présidence française du G7;347;Préparation et organisation du Sommet du G7;1;;;
+254;Budget général;1;Action extérieure de l'État;AA;Présidence française du G7;347;Fonctionnement du Secrétariat général et communication;3;;;
+255;Budget général;1;Administration générale et territoriale de l'État;AB;Administration territoriale;307;Coordination de la sécurité des personnes et des biens;1;;;
+256;Budget général;1;Administration générale et territoriale de l'État;AB;Administration territoriale;307;Réglementation générale, garantie de l'identité et de la nationalité et délivrance des titres;2;;;
+257;Budget général;1;Administration générale et territoriale de l'État;AB;Administration territoriale;307;Contrôle de légalité et conseil aux collectivités territoriales;3;;;
+258;Budget général;1;Administration générale et territoriale de l'État;AB;Administration territoriale;307;Pilotage territorial des politiques gouvernementales;4;;;
+259;Budget général;1;Administration générale et territoriale de l'État;AB;Administration territoriale;307;Animation et soutien du réseau;5;;;
+260;Budget général;1;Administration générale et territoriale de l'État;AB;Vie politique, cultuelle et associative;232;Financement des partis;1;;;
+261;Budget général;1;Administration générale et territoriale de l'État;AB;Vie politique, cultuelle et associative;232;Organisation des élections;2;;;
+262;Budget général;1;Administration générale et territoriale de l'État;AB;Vie politique, cultuelle et associative;232;Commission nationale des comptes de campagne et des financements politiques;3;;;
+263;Budget général;1;Administration générale et territoriale de l'État;AB;Vie politique, cultuelle et associative;232;Cultes;4;;;
+264;Budget général;1;Administration générale et territoriale de l'État;AB;Vie politique, cultuelle et associative;232;Vie associative;5;;;
+265;Budget général;1;Administration générale et territoriale de l'État;AB;Conduite et pilotage des politiques de l'intérieur;216;État-major et services centraux;1;;;
+266;Budget général;1;Administration générale et territoriale de l'État;AB;Conduite et pilotage des politiques de l'intérieur;216;Système d'information et de communication;3;;;
+267;Budget général;1;Administration générale et territoriale de l'État;AB;Conduite et pilotage des politiques de l'intérieur;216;Action sociale et formation;4;;;
+268;Budget général;1;Administration générale et territoriale de l'État;AB;Conduite et pilotage des politiques de l'intérieur;216;Affaires immobilières;5;;;
+269;Budget général;1;Administration générale et territoriale de l'État;AB;Conduite et pilotage des politiques de l'intérieur;216;Affaires juridiques et contentieuses;6;;;
+270;Budget général;1;Administration générale et territoriale de l'État;AB;Conduite et pilotage des politiques de l'intérieur;216;Immigration, asile et intégration;8;;;
+271;Budget général;1;Administration générale et territoriale de l'État;AB;Conduite et pilotage des politiques de l'intérieur;216;Sécurité et éducation routières;9;;;
+272;Budget général;1;Administration générale et territoriale de l'État;AB;Conduite et pilotage des politiques de l'intérieur;216;Fonds interministériel de prévention de la délinquance;10;;;
+273;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;149;Adaptation des filières à l'évolution des marchés;21;;;
+274;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;149;Gestion des crises et des aléas de la production agricole;22;;;
+275;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;149;Appui au renouvellement et à la modernisation des exploitations agricoles;23;;;
+276;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;149;Gestion équilibrée et durable des territoires;24;;;
+277;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;149;Protection sociale;25;;;
+278;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;149;Gestion durable de la forêt et développement de la filière bois;26;;;
+279;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;149;Moyens de mise en oeuvre des politiques publiques et gestion des interventions;27;;;
+280;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;149;Pêche et aquaculture;28;;;
+281;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Sécurité et qualité sanitaires de l'alimentation;206;Prévention et gestion des risques inhérents à la production végétale;1;;;
+282;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Sécurité et qualité sanitaires de l'alimentation;206;Lutte contre les maladies animales et protection des animaux;2;;;
+283;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Sécurité et qualité sanitaires de l'alimentation;206;Prévention et gestion des risques sanitaires liés aux denrées alimentaires;3;;;
+284;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Sécurité et qualité sanitaires de l'alimentation;206;Actions transversales;4;;;
+285;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Sécurité et qualité sanitaires de l'alimentation;206;Elimination des cadavres et des sous-produits animaux;5;;;
+286;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Sécurité et qualité sanitaires de l'alimentation;206;Mise en oeuvre de la politique de sécurité et de qualité sanitaires de l'alimentation;6;;;
+287;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Sécurité et qualité sanitaires de l'alimentation;206;Qualité de l'alimentation et offre alimentaire;8;;;
+288;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Conduite et pilotage des politiques de l'agriculture;215;Moyens de l'administration centrale;1;;;
+289;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Conduite et pilotage des politiques de l'agriculture;215;Évaluation de l'impact des politiques publiques et information économique;2;;;
+290;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Conduite et pilotage des politiques de l'agriculture;215;Moyens des directions régionales de l'alimentation, de l'agriculture et de la forêt, des directions de l'alimentation, de l'agriculture et de la forêt et directions départementales des territoires (et de la mer);3;;;
+291;Budget général;1;Agriculture, alimentation, forêt et affaires rurales;AC;Conduite et pilotage des politiques de l'agriculture;215;Moyens communs;4;;;
+292;Budget général;1;Aide publique au développement;AD;Aide économique et financière au développement;110;Aide économique et financière multilatérale;1;;;
+293;Budget général;1;Aide publique au développement;AD;Aide économique et financière au développement;110;Aide économique et financière bilatérale;2;;;
+294;Budget général;1;Aide publique au développement;AD;Aide économique et financière au développement;110;Traitement de la dette des pays pauvres;3;;;
+295;Budget général;1;Aide publique au développement;AD;Solidarité à l'égard des pays en développement;209;Coopération bilatérale;2;;;
+296;Budget général;1;Aide publique au développement;AD;Solidarité à l'égard des pays en développement;209;Coopération multilatérale;5;;;
+297;Budget général;1;Aide publique au développement;AD;Solidarité à l'égard des pays en développement;209;Coopération communautaire;7;;;
+298;Budget général;1;Aide publique au développement;AD;Solidarité à l'égard des pays en développement;209;Dépenses de personnels concourant au programme "Solidarité à l'égard des pays en développement";8;;;
+299;Budget général;1;Aide publique au développement;AD;Solidarité à l'égard des pays en développement;209;Actions de co-développement;9;;;
+300;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Liens entre la Nation et son armée;167;Liens armées-jeunesse;1;;;
+301;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Liens entre la Nation et son armée;167;Politique de mémoire;2;;;
+302;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Administration de  la dette viagère;1;;;
+303;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Gestion  des droits liés aux pensions militaires d'invalidité;2;;;
+304;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Solidarité;3;;;
+305;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Actions en faveur des rapatriés;7;;;
+306;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la seconde guerre mondiale;158;Indemnisation des orphelins de la déportation et des victimes de spoliations du fait des législations antisémites en vigueur pendant l'Occupation;1;;;
+307;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la seconde guerre mondiale;158;Indemnisation des victimes d'actes de barbarie durant la seconde guerre mondiale;2;;;
+308;Budget général;1;Cohésion des territoires;VA;Hébergement, parcours vers le logement et insertion des personnes vulnérables;177;Prévention de l'exclusion;11;;;
+309;Budget général;1;Cohésion des territoires;VA;Hébergement, parcours vers le logement et insertion des personnes vulnérables;177;Hébergement et logement adapté;12;;;
+310;Budget général;1;Cohésion des territoires;VA;Hébergement, parcours vers le logement et insertion des personnes vulnérables;177;Conduite et animation des politiques de l'hébergement et de l'inclusion sociale;14;;;
+311;Budget général;1;Cohésion des territoires;VA;Aide à l'accès au logement;109;Aides personnelles;1;;;
+312;Budget général;1;Cohésion des territoires;VA;Aide à l'accès au logement;109;Information relative au logement et accompagnement des publics en difficulté;2;;;
+313;Budget général;1;Cohésion des territoires;VA;Aide à l'accès au logement;109;Sécurisation des risques locatifs;3;;;
+314;Budget général;1;Cohésion des territoires;VA;Urbanisme, territoires et amélioration de l'habitat;135;Construction locative et amélioration du parc;1;;;
+315;Budget général;1;Cohésion des territoires;VA;Urbanisme, territoires et amélioration de l'habitat;135;Soutien à l'accession à la propriété;2;;;
+316;Budget général;1;Cohésion des territoires;VA;Urbanisme, territoires et amélioration de l'habitat;135;Lutte contre l'habitat indigne;3;;;
+317;Budget général;1;Cohésion des territoires;VA;Urbanisme, territoires et amélioration de l'habitat;135;Réglementation, politique technique et qualité de la construction;4;;;
+318;Budget général;1;Cohésion des territoires;VA;Urbanisme, territoires et amélioration de l'habitat;135;Soutien;5;;;
+319;Budget général;1;Cohésion des territoires;VA;Urbanisme, territoires et amélioration de l'habitat;135;Urbanisme et aménagement;7;;;
+320;Budget général;1;Cohésion des territoires;VA;Urbanisme, territoires et amélioration de l'habitat;135;Grand Paris;8;;;
+321;Budget général;1;Cohésion des territoires;VA;Impulsion et coordination de la politique d'aménagement du territoire;112;Attractivité économique et compétitivité des territoires;1;;;
+322;Budget général;1;Cohésion des territoires;VA;Impulsion et coordination de la politique d'aménagement du territoire;112;Développement solidaire et équilibré des territoires;2;;;
+323;Budget général;1;Cohésion des territoires;VA;Impulsion et coordination de la politique d'aménagement du territoire;112;Instruments de pilotage et d'étude;4;;;
+324;Budget général;1;Cohésion des territoires;VA;Interventions territoriales de l'État;162;Eau - Agriculture en Bretagne;2;;;
+325;Budget général;1;Cohésion des territoires;VA;Interventions territoriales de l'État;162;Programme exceptionnel d'investissements en faveur de la Corse;4;;;
+326;Budget général;1;Cohésion des territoires;VA;Interventions territoriales de l'État;162;Plan gouvernemental sur le Marais Poitevin - Poitou Charentes;6;;;
+327;Budget général;1;Cohésion des territoires;VA;Interventions territoriales de l'État;162;Plan chlordécone en Martinique et en Guadeloupe;8;;;
+328;Budget général;1;Cohésion des territoires;VA;Interventions territoriales de l'État;162;Plan littoral 21;9;;;
+329;Budget général;1;Cohésion des territoires;VA;Politique de la ville;147;Actions territorialisées et Dispositifs spécifiques de la politique de la ville;1;;;
+330;Budget général;1;Cohésion des territoires;VA;Politique de la ville;147;Revitalisation économique et emploi;2;;;
+331;Budget général;1;Cohésion des territoires;VA;Politique de la ville;147;Stratégie, ressources et évaluation;3;;;
+332;Budget général;1;Cohésion des territoires;VA;Politique de la ville;147;Rénovation urbaine et amélioration du cadre de vie;4;;;
+333;Budget général;1;Conseil et contrôle de l'État;CA;Conseil d'État et autres juridictions administratives;165;Fonction juridictionnelle : Conseil d'État;1;;;
+334;Budget général;1;Conseil et contrôle de l'État;CA;Conseil d'État et autres juridictions administratives;165;Fonction juridictionnelle : Cours administratives d'appel;2;;;
+335;Budget général;1;Conseil et contrôle de l'État;CA;Conseil d'État et autres juridictions administratives;165;Fonction juridictionnelle : Tribunaux administratifs;3;;;
+336;Budget général;1;Conseil et contrôle de l'État;CA;Conseil d'État et autres juridictions administratives;165;Fonction consultative;4;;;
+337;Budget général;1;Conseil et contrôle de l'État;CA;Conseil d'État et autres juridictions administratives;165;Fonction études, expertise et services rendus aux administrations de l'État et des collectivités;5;;;
+338;Budget général;1;Conseil et contrôle de l'État;CA;Conseil d'État et autres juridictions administratives;165;Soutien;6;;;
+339;Budget général;1;Conseil et contrôle de l'État;CA;Conseil d'État et autres juridictions administratives;165;Cour nationale du droit d'asile;7;;;
+340;Budget général;1;Conseil et contrôle de l'État;CA;Conseil économique, social et environnemental;126;Représentation des activités économiques et sociales;1;;;
+341;Budget général;1;Conseil et contrôle de l'État;CA;Conseil économique, social et environnemental;126;Fonctionnement de l'institution;2;;;
+342;Budget général;1;Conseil et contrôle de l'État;CA;Conseil économique, social et environnemental;126;Communication et international;3;;;
+343;Budget général;1;Conseil et contrôle de l'État;CA;Cour des comptes et autres juridictions financières;164;Examen des comptes publics;21;;;
+344;Budget général;1;Conseil et contrôle de l'État;CA;Cour des comptes et autres juridictions financières;164;Contrôle des finances publiques;22;;;
+345;Budget général;1;Conseil et contrôle de l'État;CA;Cour des comptes et autres juridictions financières;164;Contrôle des gestions publiques;23;;;
+346;Budget général;1;Conseil et contrôle de l'État;CA;Cour des comptes et autres juridictions financières;164;Evaluation des politiques publiques;24;;;
+347;Budget général;1;Conseil et contrôle de l'État;CA;Cour des comptes et autres juridictions financières;164;Information des citoyens;25;;;
+348;Budget général;1;Conseil et contrôle de l'État;CA;Cour des comptes et autres juridictions financières;164;Mise en jeu de la responsabilité des comptables publics et des gestionnaires publics;26;;;
+349;Budget général;1;Conseil et contrôle de l'État;CA;Cour des comptes et autres juridictions financières;164;Pilotage et soutien des juridictions financières;27;;;
+350;Budget général;1;Conseil et contrôle de l'État;CA;Haut Conseil des finances publiques;340;Haut Conseil des finances publiques;1;;;
+351;Budget général;1;Crédits non répartis;PC;Provision relative aux rémunérations publiques;551;Provision relative aux rémunérations publiques;1;;;
+352;Budget général;1;Crédits non répartis;PC;Dépenses accidentelles et imprévisibles;552;Dépenses accidentelles et imprévisibles;1;;;
+353;Budget général;1;Culture;CB;Patrimoines;175;Monuments Historiques et patrimoine monumental;1;;;
+354;Budget général;1;Culture;CB;Patrimoines;175;Architecture et espaces protégés;2;;;
+355;Budget général;1;Culture;CB;Patrimoines;175;Patrimoine des musées de France;3;;;
+356;Budget général;1;Culture;CB;Patrimoines;175;Patrimoine archivistique et célébrations nationales;4;;;
+357;Budget général;1;Culture;CB;Patrimoines;175;Acquisition et enrichissement des collections publiques;8;;;
+358;Budget général;1;Culture;CB;Patrimoines;175;Patrimoine archéologique;9;;;
+359;Budget général;1;Culture;CB;Création;131;Soutien à la création, à la production et à la diffusion du spectacle vivant;1;;;
+360;Budget général;1;Culture;CB;Création;131;Soutien à la création, à la production et à la diffusion des arts visuels;2;;;
+361;Budget général;1;Culture;CB;Transmission des savoirs et démocratisation de la culture;224;Soutien aux établissements d'enseignement supérieur et insertion professionnelle;1;;;
+362;Budget général;1;Culture;CB;Transmission des savoirs et démocratisation de la culture;224;Soutien à la démocratisation et à l'éducation artistique et culturelle;2;;;
+363;Budget général;1;Culture;CB;Transmission des savoirs et démocratisation de la culture;224;Action culturelle internationale;6;;;
+364;Budget général;1;Culture;CB;Transmission des savoirs et démocratisation de la culture;224;Fonctions de soutien du ministère;7;;;
+365;Budget général;1;Culture;CB;Transmission des savoirs et démocratisation de la culture;224;Soutien à l'emploi dans le secteur culturel;8;;;
+366;Budget général;1;Culture;CB;Transmission des savoirs et démocratisation de la culture;224;Langue française et langues de France;9;;;
+367;Budget général;1;Défense;DA;Environnement et prospective de la politique de défense;144;Recherche et exploitation du renseignement intéressant la sécurité de la France;3;;;
+368;Budget général;1;Défense;DA;Environnement et prospective de la politique de défense;144;Prospective de défense;7;;;
+369;Budget général;1;Défense;DA;Environnement et prospective de la politique de défense;144;Relations internationales et diplomatie de défense;8;;;
+370;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Planification  des moyens et conduite des opérations;1;;;
+371;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces terrestres;2;;;
+372;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces navales;3;;;
+373;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces aériennes;4;;;
+374;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Logistique et soutien interarmées;5;;;
+375;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Surcoûts liés aux opérations extérieures;6;;;
+376;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Surcoûts liés aux opérations intérieures;7;;;
+377;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Politique immobilière;4;;;
+378;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Systèmes d'information, d'administration et de gestion;5;;;
+379;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Politiques des ressources humaines;6;;;
+380;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Politique culturelle et éducative;8;;;
+381;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Restructurations;10;;;
+382;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Pilotage, soutien et communication;11;;;
+383;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Recherche et exploitation du renseignement intéressant la sécurité de la France - Personnel travaillant  pour le programme "Environnement et prospective de la politique de défense";50;;;
+384;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Prospective de défense - Personnel travaillant  pour le programme "Environnement et prospective de la politique de défense";51;;;
+385;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Relations internationales;52;;;
+386;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Préparation et conduite des opérations d'armement - Personnel travaillant  pour le programme  "Équipement des forces ";53;;;
+387;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme "Préparation et emploi des forces";54;;;
+388;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Préparation des forces terrestres - Personnel travaillant pour le programme "Préparation et emploi des forces";55;;;
+389;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Préparation des forces navales - Personnel travaillant pour le programme "Préparation et emploi des forces";56;;;
+390;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Préparation des forces aériennes- Personnel travaillant pour le programme "Préparation et emploi des forces";57;;;
+391;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Logistique et soutien interarmées - Personnel travaillant pour le programme "Préparation et emploi des forces";58;;;
+392;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Surcoûts liés aux opérations - Personnel travaillant pour le programme "Préparation et emploi des forces";59;;;
+393;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Politique immobilière - Personnel travaillant pour l'action "Politique immobilière";60;;;
+394;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Action sociale, chômage et pensions;61;;;
+395;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Politique culturelle et éducative - gestion et communication des archives historiques de la défense - Personnel travaillant pour l'action "Politique culturelle et éducative";62;;;
+396;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Restructurations - RH;63;;;
+397;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Pilotage, soutien  -  Personnel travaillant pour l'action " Pilotage, soutien ";64;;;
+398;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Journée défense et citoyenneté - Personnel travaillant pour le programme "Liens entre la Nation et son armée";65;;;
+399;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Rayonnement et contribution extérieure;66;;;
+400;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;67;;;
+401;Budget général;1;Défense;DA;Équipement des forces;146;Dissuasion;6;;;
+402;Budget général;1;Défense;DA;Équipement des forces;146;Commandement et maîtrise de l'information;7;;;
+403;Budget général;1;Défense;DA;Équipement des forces;146;Projection - mobilité - soutien;8;;;
+404;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;;;
+405;Budget général;1;Défense;DA;Équipement des forces;146;Protection et sauvegarde;10;;;
+406;Budget général;1;Défense;DA;Équipement des forces;146;Préparation et conduite des opérations d'armement;11;;;
+407;Budget général;1;Défense;DA;Équipement des forces;146;Parts étrangères et programmes civils;12;;;
+408;Budget général;1;Direction de l'action du Gouvernement;DC;Coordination du travail gouvernemental;129;Coordination du travail gouvernemental;1;;;
+409;Budget général;1;Direction de l'action du Gouvernement;DC;Coordination du travail gouvernemental;129;Coordination de la sécurité et de la défense;2;;;
+410;Budget général;1;Direction de l'action du Gouvernement;DC;Coordination du travail gouvernemental;129;Coordination de la politique européenne;3;;;
+411;Budget général;1;Direction de l'action du Gouvernement;DC;Coordination du travail gouvernemental;129;Soutien;10;;;
+412;Budget général;1;Direction de l'action du Gouvernement;DC;Coordination du travail gouvernemental;129;Stratégie et prospective;11;;;
+413;Budget général;1;Direction de l'action du Gouvernement;DC;Coordination du travail gouvernemental;129;Ordre de la Légion d'honneur;13;;;
+414;Budget général;1;Direction de l'action du Gouvernement;DC;Coordination du travail gouvernemental;129;Mission interministérielle de lutte contre les drogues et les conduites addictives;15;;;
+415;Budget général;1;Direction de l'action du Gouvernement;DC;Coordination du travail gouvernemental;129;Coordination de la politique numérique;16;;;
+416;Budget général;1;Direction de l'action du Gouvernement;DC;Protection des droits et libertés;308;Commission nationale de l'informatique et des libertés;2;;;
+417;Budget général;1;Direction de l'action du Gouvernement;DC;Protection des droits et libertés;308;Conseil supérieur de l'audiovisuel;3;;;
+418;Budget général;1;Direction de l'action du Gouvernement;DC;Protection des droits et libertés;308;Contrôleur général des lieux de privation de liberté;5;;;
+419;Budget général;1;Direction de l'action du Gouvernement;DC;Protection des droits et libertés;308;Autres autorités indépendantes;6;;;
+420;Budget général;1;Direction de l'action du Gouvernement;DC;Protection des droits et libertés;308;Défenseur des droits;9;;;
+421;Budget général;1;Direction de l'action du Gouvernement;DC;Protection des droits et libertés;308;Haute autorité pour la transparence de la vie publique;10;;;
+422;Budget général;1;Direction de l'action du Gouvernement;DC;Protection des droits et libertés;308;Régulation de la distribution de la presse;11;;;
+423;Budget général;1;Direction de l'action du Gouvernement;DC;Protection des droits et libertés;308;Commission nationale de contrôle des techniques de renseignement;12;;;
+424;Budget général;1;Direction de l'action du Gouvernement;DC;Protection des droits et libertés;308;Commission du secret de la Défense nationale;13;;;
+425;Budget général;1;Direction de l'action du Gouvernement;DC;Moyens mutualisés des administrations déconcentrées;333;Fonctionnement courant des directions départementales interministérielles;1;;;
+426;Budget général;1;Direction de l'action du Gouvernement;DC;Moyens mutualisés des administrations déconcentrées;333;Loyers et charges immobilières des administrations déconcentrées;2;;;
+427;Budget général;1;Direction de l'action du Gouvernement;DC;Moyens mutualisés des administrations déconcentrées;333;Emplois déconcentrés des services du Premier ministre;3;;;
+428;Budget général;1;Écologie, développement et mobilité durables;TA;Infrastructures et services de transports;203;Routes - Développement;1;;;
+429;Budget général;1;Écologie, développement et mobilité durables;TA;Infrastructures et services de transports;203;Routes - Entretien;4;;;
+430;Budget général;1;Écologie, développement et mobilité durables;TA;Infrastructures et services de transports;203;Ferroviaire;41;;;
+431;Budget général;1;Écologie, développement et mobilité durables;TA;Infrastructures et services de transports;203;Voies navigables;42;;;
+432;Budget général;1;Écologie, développement et mobilité durables;TA;Infrastructures et services de transports;203;Ports;43;;;
+433;Budget général;1;Écologie, développement et mobilité durables;TA;Infrastructures et services de transports;203;Transports collectifs;44;;;
+434;Budget général;1;Écologie, développement et mobilité durables;TA;Infrastructures et services de transports;203;Transports combinés;45;;;
+435;Budget général;1;Écologie, développement et mobilité durables;TA;Infrastructures et services de transports;203;Fonctions support;47;;;
+436;Budget général;1;Écologie, développement et mobilité durables;TA;Infrastructures et services de transports;203;Transport routier;50;;;
+437;Budget général;1;Écologie, développement et mobilité durables;TA;Infrastructures et services de transports;203;Sécurité ferroviaire;51;;;
+438;Budget général;1;Écologie, développement et mobilité durables;TA;Infrastructures et services de transports;203;Transport aérien;52;;;
+439;Budget général;1;Écologie, développement et mobilité durables;TA;Affaires maritimes;205;Sécurité et sûreté maritimes;1;;;
+440;Budget général;1;Écologie, développement et mobilité durables;TA;Affaires maritimes;205;Gens de mer et enseignement maritime;2;;;
+441;Budget général;1;Écologie, développement et mobilité durables;TA;Affaires maritimes;205;Flotte de commerce;3;;;
+442;Budget général;1;Écologie, développement et mobilité durables;TA;Affaires maritimes;205;Action interministérielle de la mer;4;;;
+443;Budget général;1;Écologie, développement et mobilité durables;TA;Affaires maritimes;205;Soutien au programme;5;;;
+444;Budget général;1;Écologie, développement et mobilité durables;TA;Affaires maritimes;205;Gestion durable des Pêches et de  l'Aquaculture;6;;;
+445;Budget général;1;Écologie, développement et mobilité durables;TA;Paysages, eau et biodiversité;113;Sites, paysages, publicité;1;;;
+446;Budget général;1;Écologie, développement et mobilité durables;TA;Paysages, eau et biodiversité;113;logistique, formation et contentieux;2;;;
+447;Budget général;1;Écologie, développement et mobilité durables;TA;Paysages, eau et biodiversité;113;Gestion des milieux et biodiversité;7;;;
+448;Budget général;1;Écologie, développement et mobilité durables;TA;Expertise, information géographique et météorologie;159;Gouvernance, évaluation, études et prospective en matière de développement durable;10;;;
+449;Budget général;1;Écologie, développement et mobilité durables;TA;Expertise, information géographique et météorologie;159;Etudes et expertise en matière de développement durable;11;;;
+450;Budget général;1;Écologie, développement et mobilité durables;TA;Expertise, information géographique et météorologie;159;Information géographique et cartographique;12;;;
+451;Budget général;1;Écologie, développement et mobilité durables;TA;Expertise, information géographique et météorologie;159;Météorologie;13;;;
+452;Budget général;1;Écologie, développement et mobilité durables;TA;Expertise, information géographique et météorologie;159;Economie sociale et solidaire;14;;;
+453;Budget général;1;Écologie, développement et mobilité durables;TA;Prévention des risques;181;Prévention des risques technologiques et des pollutions;1;;;
+454;Budget général;1;Écologie, développement et mobilité durables;TA;Prévention des risques;181;Contrôle de la sûreté nucléaire et de la radioprotection;9;;;
+455;Budget général;1;Écologie, développement et mobilité durables;TA;Prévention des risques;181;Prévention des risques naturels et hydrauliques;10;;;
+456;Budget général;1;Écologie, développement et mobilité durables;TA;Prévention des risques;181;Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites;11;;;
+457;Budget général;1;Écologie, développement et mobilité durables;TA;Prévention des risques;181;Agence de l'environnement et de la maîtrise de l'énergie (ADEME);12;;;
+458;Budget général;1;Écologie, développement et mobilité durables;TA;Énergie, climat et après-mines;174;Politique de l'énergie;1;;;
+459;Budget général;1;Écologie, développement et mobilité durables;TA;Énergie, climat et après-mines;174;Gestion économique et sociale de l'après-mines;4;;;
+460;Budget général;1;Écologie, développement et mobilité durables;TA;Énergie, climat et après-mines;174;Lutte contre le changement climatique et pour la qualité de l'air;5;;;
+461;Budget général;1;Écologie, développement et mobilité durables;TA;Énergie, climat et après-mines;174;Soutien;6;;;
+462;Budget général;1;Écologie, développement et mobilité durables;TA;Service public de l'énergie;345;Solidarité avec les zones non interconnectées au réseau métropolitain;1;;;
+463;Budget général;1;Écologie, développement et mobilité durables;TA;Service public de l'énergie;345;Protection des consommateurs en situation de précarité énergétique;2;;;
+464;Budget général;1;Écologie, développement et mobilité durables;TA;Service public de l'énergie;345;Soutien à la cogénération;3;;;
+465;Budget général;1;Écologie, développement et mobilité durables;TA;Service public de l'énergie;345;Frais de support;5;;;
+466;Budget général;1;Écologie, développement et mobilité durables;TA;Service public de l'énergie;345;Médiateur de l'énergie;6;;;
+467;Budget général;1;Écologie, développement et mobilité durables;TA;Service public de l'énergie;345;Fermeture de la centrale de Fessenheim;7;;;
+468;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Fonction juridique;2;;;
+469;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Politique et programmation de l'immobilier et des moyens de fonctionnement;3;;;
+470;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Politique et gestion des systèmes d'information et des réseaux informatiques;4;;;
+471;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Politique des ressources humaines et formation;5;;;
+472;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Actions nationales, européennes et internationales en faveur du développement durable;6;;;
+473;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Personnels oeuvrant pour les politiques du programme "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables";7;;;
+474;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Personnels oeuvrant pour les politiques du programme "Infrastructures et services de transports";8;;;
+475;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Personnels oeuvrant pour les politiques du programme "Sécurité et éducation routières";9;;;
+476;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Personnels oeuvrant pour les politiques du programme "Affaires maritimes";11;;;
+477;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Personnels oeuvrant pour les politiques du programme "Paysages, eau et biodiversité";13;;;
+478;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Personnels relevant du ministère de la " Cohésion des territoires ";15;;;
+479;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Personnels oeuvrant pour les politiques du programme "Prévention des risques";16;;;
+480;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Personnels relevant de programmes d'autres ministères;18;;;
+481;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Personnels transférés aux collectivités territoriales;22;;;
+482;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Personnels oeuvrant pour les politiques des programmes "énergie, climat et après-mines";23;;;
+483;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Personnels oeuvrant dans le domaine des transports aériens;24;;;
+484;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Commission nationale du débat public;25;;;
+485;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Autorité de contrôle des nuisances aéroportuaires (ACNUSA);26;;;
+486;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Commission de régulation de l'énergie (CRE);27;;;
+487;Budget général;1;Écologie, développement et mobilité durables;TA;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;217;Personnels oeuvrant pour le développement durable et pour les politiques du programme "expertise, information géographique et météorologique";28;;;
+488;Budget général;1;Économie;DB;Développement des entreprises et régulations;134;Développement des postes, des télécommunications et du numérique;4;;;
+489;Budget général;1;Économie;DB;Développement des entreprises et régulations;134;Développement international des entreprises et attractivité du territoire;7;;;
+490;Budget général;1;Économie;DB;Développement des entreprises et régulations;134;Expertise, conseil et inspection;8;;;
+491;Budget général;1;Économie;DB;Développement des entreprises et régulations;134;Régulation des communications électroniques et des postes (ARCEP);13;;;
+492;Budget général;1;Économie;DB;Développement des entreprises et régulations;134;Mise en oeuvre du droit de la concurrence (Autorité de la concurrence);15;;;
+493;Budget général;1;Économie;DB;Développement des entreprises et régulations;134;Economie sociale et solidaire;22;;;
+494;Budget général;1;Économie;DB;Développement des entreprises et régulations;134;Industrie et services;23;;;
+495;Budget général;1;Économie;DB;Développement des entreprises et régulations;134;Régulation concurrentielle des marchés, protection économique et sécurité du consommateur;24;;;
+496;Budget général;1;Économie;DB;Plan France Très haut débit;343;Réseaux d'initiative publique;1;;;
+497;Budget général;1;Économie;DB;Statistiques et études économiques;220;Infrastructure statistique;1;;;
+498;Budget général;1;Économie;DB;Statistiques et études économiques;220;Information sur les entreprises et synthèses économiques;2;;;
+499;Budget général;1;Économie;DB;Statistiques et études économiques;220;Information démographique et sociale;3;;;
+500;Budget général;1;Économie;DB;Statistiques et études économiques;220;Pilotage et soutien;5;;;
+501;Budget général;1;Économie;DB;Statistiques et études économiques;220;Action régionale;6;;;
+502;Budget général;1;Économie;DB;Statistiques et études économiques;220;Formation initiale;7;;;
+503;Budget général;1;Économie;DB;Stratégie économique et fiscale;305;Définition et mise en oeuvre de la politique économique et financière de la France dans le cadre national, international et européen;1;;;
+504;Budget général;1;Économie;DB;Stratégie économique et fiscale;305;Développement international de l'économie française;2;;;
+505;Budget général;1;Économie;DB;Stratégie économique et fiscale;305;Elaboration de la législation fiscale;3;;;
+506;Budget général;1;Engagements financiers de l'État;EB;Charge de la dette et trésorerie de l'État (crédits évaluatifs);117;Dette;1;;;
+507;Budget général;1;Engagements financiers de l'État;EB;Charge de la dette et trésorerie de l'État (crédits évaluatifs);117;Trésorerie;3;;;
+508;Budget général;1;Engagements financiers de l'État;EB;Appels en garantie de l'État (crédits évaluatifs);114;Agriculture et environnement;1;;;
+509;Budget général;1;Engagements financiers de l'État;EB;Appels en garantie de l'État (crédits évaluatifs);114;Soutien au domaine social, logement, santé;2;;;
+510;Budget général;1;Engagements financiers de l'État;EB;Appels en garantie de l'État (crédits évaluatifs);114;Financement des entreprises et industrie;3;;;
+511;Budget général;1;Engagements financiers de l'État;EB;Appels en garantie de l'État (crédits évaluatifs);114;Développement international de l'économie française;4;;;
+512;Budget général;1;Engagements financiers de l'État;EB;Appels en garantie de l'État (crédits évaluatifs);114;Autres garanties;5;;;
+513;Budget général;1;Engagements financiers de l'État;EB;Épargne;145;Épargne logement;1;;;
+514;Budget général;1;Engagements financiers de l'État;EB;Épargne;145;Instruments de financement du logement;2;;;
+515;Budget général;1;Engagements financiers de l'État;EB;Dotation du Mécanisme européen de stabilité;336;Dotation du Mécanisme européen de stabilité;1;;;
+516;Budget général;1;Engagements financiers de l'État;EB;Augmentation de capital de la Banque européenne d'investissement;338;Augmentation de capital de la Banque européenne d'investissement;1;;;
+517;Budget général;1;Engagements financiers de l'État;EB;Fonds de soutien relatif aux prêts et contrats financiers structurés à risque;344;Fonds de soutien relatif aux prêts et contrats financiers structurés à risque;1;;;
+518;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du premier degré;140;Enseignement pré-élémentaire;1;;;
+519;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du premier degré;140;Enseignement élémentaire;2;;;
+520;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du premier degré;140;Besoins éducatifs particuliers;3;;;
+521;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du premier degré;140;Formation des personnels enseignants;4;;;
+522;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du premier degré;140;Remplacement;5;;;
+523;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du premier degré;140;Pilotage et encadrement pédagogique;6;;;
+524;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du premier degré;140;Personnels en situations diverses;7;;;
+525;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du second degré;141;Enseignement en collège;1;;;
+526;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du second degré;141;Enseignement général et technologique en lycée;2;;;
+527;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du second degré;141;Enseignement professionnel sous statut scolaire;3;;;
+528;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du second degré;141;Apprentissage;4;;;
+529;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du second degré;141;Enseignement post-baccalauréat en lycée;5;;;
+530;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du second degré;141;Besoins éducatifs particuliers;6;;;
+531;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du second degré;141;Aide à l'insertion professionnelle;7;;;
+532;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du second degré;141;Information et orientation;8;;;
+533;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du second degré;141;Formation continue des adultes et validation des acquis de l'expérience;9;;;
+534;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du second degré;141;Formation des personnels enseignants et d'orientation;10;;;
+535;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du second degré;141;Remplacement;11;;;
+536;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du second degré;141;Pilotage, administration et encadrement pédagogique;12;;;
+537;Budget général;1;Enseignement scolaire;EC;Enseignement scolaire public du second degré;141;Personnels en situations diverses;13;;;
+538;Budget général;1;Enseignement scolaire;EC;Vie de l'élève;230;Vie scolaire et éducation à la responsabilité;1;;;
+539;Budget général;1;Enseignement scolaire;EC;Vie de l'élève;230;Santé scolaire;2;;;
+540;Budget général;1;Enseignement scolaire;EC;Vie de l'élève;230;Inclusion scolaire des élèves en situation de handicap;3;;;
+541;Budget général;1;Enseignement scolaire;EC;Vie de l'élève;230;Action sociale;4;;;
+542;Budget général;1;Enseignement scolaire;EC;Vie de l'élève;230;Politique de l'internat et établissements à la charge de l'Etat;5;;;
+543;Budget général;1;Enseignement scolaire;EC;Vie de l'élève;230;Actions éducatives complémentaires aux enseignements;6;;;
+544;Budget général;1;Enseignement scolaire;EC;Enseignement privé du premier et du second degrés;139;Enseignement pré-élémentaire;1;;;
+545;Budget général;1;Enseignement scolaire;EC;Enseignement privé du premier et du second degrés;139;Enseignement élémentaire;2;;;
+546;Budget général;1;Enseignement scolaire;EC;Enseignement privé du premier et du second degrés;139;Enseignement en collège;3;;;
+547;Budget général;1;Enseignement scolaire;EC;Enseignement privé du premier et du second degrés;139;Enseignement général et technologique en lycée;4;;;
+548;Budget général;1;Enseignement scolaire;EC;Enseignement privé du premier et du second degrés;139;Enseignement professionnel sous statut scolaire;5;;;
+549;Budget général;1;Enseignement scolaire;EC;Enseignement privé du premier et du second degrés;139;Enseignement post-baccalauréat en lycée;6;;;
+550;Budget général;1;Enseignement scolaire;EC;Enseignement privé du premier et du second degrés;139;Dispositifs spécifiques de scolarisation;7;;;
+551;Budget général;1;Enseignement scolaire;EC;Enseignement privé du premier et du second degrés;139;Actions sociales en faveur des élèves;8;;;
+552;Budget général;1;Enseignement scolaire;EC;Enseignement privé du premier et du second degrés;139;Fonctionnement des établissements;9;;;
+553;Budget général;1;Enseignement scolaire;EC;Enseignement privé du premier et du second degrés;139;Formation initiale et continue des enseignants;10;;;
+554;Budget général;1;Enseignement scolaire;EC;Enseignement privé du premier et du second degrés;139;Remplacement;11;;;
+555;Budget général;1;Enseignement scolaire;EC;Enseignement privé du premier et du second degrés;139;Soutien;12;;;
+556;Budget général;1;Enseignement scolaire;EC;Soutien de la politique de l'éducation nationale;214;Pilotage et mise en oeuvre des politiques éducatives;1;;;
+557;Budget général;1;Enseignement scolaire;EC;Soutien de la politique de l'éducation nationale;214;Évaluation et contrôle;2;;;
+558;Budget général;1;Enseignement scolaire;EC;Soutien de la politique de l'éducation nationale;214;Communication;3;;;
+559;Budget général;1;Enseignement scolaire;EC;Soutien de la politique de l'éducation nationale;214;Expertise juridique;4;;;
+560;Budget général;1;Enseignement scolaire;EC;Soutien de la politique de l'éducation nationale;214;Action internationale;5;;;
+561;Budget général;1;Enseignement scolaire;EC;Soutien de la politique de l'éducation nationale;214;Politique des ressources humaines;6;;;
+562;Budget général;1;Enseignement scolaire;EC;Soutien de la politique de l'éducation nationale;214;Établissements d'appui de la politique éducative;7;;;
+563;Budget général;1;Enseignement scolaire;EC;Soutien de la politique de l'éducation nationale;214;Logistique, système d'information, immobilier;8;;;
+564;Budget général;1;Enseignement scolaire;EC;Soutien de la politique de l'éducation nationale;214;Certification;9;;;
+565;Budget général;1;Enseignement scolaire;EC;Soutien de la politique de l'éducation nationale;214;Transports scolaires;10;;;
+566;Budget général;1;Enseignement scolaire;EC;Enseignement technique agricole;143;Mise en oeuvre de l'enseignement dans les établissements publics;1;;;
+567;Budget général;1;Enseignement scolaire;EC;Enseignement technique agricole;143;Mise en oeuvre des enseignements dans les établissements privés;2;;;
+568;Budget général;1;Enseignement scolaire;EC;Enseignement technique agricole;143;Aide sociale aux élèves (enseignement public et privé);3;;;
+569;Budget général;1;Enseignement scolaire;EC;Enseignement technique agricole;143;Évolution des compétences et dynamique territoriale;4;;;
+570;Budget général;1;Enseignement scolaire;EC;Enseignement technique agricole;143;Moyens communs à l'enseignement technique agricole, public et privé;5;;;
+571;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Gestion fiscale et financière de l'État et du secteur public local;156;Fiscalité des grandes entreprises;1;;;
+572;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Gestion fiscale et financière de l'État et du secteur public local;156;Fiscalité des PME;2;;;
+573;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Gestion fiscale et financière de l'État et du secteur public local;156;Fiscalité des particuliers et fiscalité directe locale;3;;;
+574;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Gestion fiscale et financière de l'État et du secteur public local;156;Gestion financière de l'État hors fiscalité;5;;;
+575;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Gestion fiscale et financière de l'État et du secteur public local;156;Gestion des pensions;6;;;
+576;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Gestion fiscale et financière de l'État et du secteur public local;156;Gestion financière du secteur public local hors fiscalité;7;;;
+577;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Gestion fiscale et financière de l'État et du secteur public local;156;Gestion des fonds déposés;8;;;
+578;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Gestion fiscale et financière de l'État et du secteur public local;156;Soutien;9;;;
+579;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Conduite et pilotage des politiques économiques et financières;218;Etat-major et politiques transversales;1;;;
+580;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Conduite et pilotage des politiques économiques et financières;218;Expertise, audit, évaluation et contrôle;2;;;
+581;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Conduite et pilotage des politiques économiques et financières;218;Prestations d'appui et support;5;;;
+582;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Conduite et pilotage des politiques économiques et financières;218;Pilotage des finances publiques et projets interministériels;7;;;
+583;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Conduite et pilotage des politiques économiques et financières;218;Accompagnement du changement de laction publique;8;;;
+584;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Facilitation et sécurisation des échanges;302;Surveillance douanière des flux de personnes et de marchandises et lutte contre la grande fraude douanière.;1;;;
+585;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Facilitation et sécurisation des échanges;302;Préservation de la sécurité et de la sûreté de l'espace national et européen;3;;;
+586;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Facilitation et sécurisation des échanges;302;Promotion des échanges internationaux et qualité du dédouanement;4;;;
+587;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Facilitation et sécurisation des échanges;302;Fiscalité douanière, énergétique et environnementale;5;;;
+588;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Facilitation et sécurisation des échanges;302;Soutien des services opérationnels;6;;;
+589;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Facilitation et sécurisation des échanges;302;Soutien au réseau des débitants de tabac;8;;;
+590;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Fonction publique;148;Formation des fonctionnaires;1;;;
+591;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Fonction publique;148;Action sociale interministérielle;2;;;
+592;Budget général;1;Gestion des finances publiques et des ressources humaines;GA;Fonction publique;148;Appui et innovation des ressources humaines;3;;;
+593;Budget général;1;Immigration, asile et intégration;IA;Immigration et asile;303;Circulation des étrangers et politique des visas;1;;;
+594;Budget général;1;Immigration, asile et intégration;IA;Immigration et asile;303;Garantie de l'exercice du droit d'asile;2;;;
+595;Budget général;1;Immigration, asile et intégration;IA;Immigration et asile;303;Lutte contre l'immigration irrégulière;3;;;
+596;Budget général;1;Immigration, asile et intégration;IA;Immigration et asile;303;Soutien;4;;;
+597;Budget général;1;Immigration, asile et intégration;IA;Intégration et accès à la nationalité française;104;Accueil des étrangers primo arrivants;11;;;
+598;Budget général;1;Immigration, asile et intégration;IA;Intégration et accès à la nationalité française;104;Actions d'accompagnement des étrangers en situation régulière;12;;;
+599;Budget général;1;Immigration, asile et intégration;IA;Intégration et accès à la nationalité française;104;Accès à la nationalité française;14;;;
+600;Budget général;1;Immigration, asile et intégration;IA;Intégration et accès à la nationalité française;104;Accompagnement des réfugiés;15;;;
+601;Budget général;1;Immigration, asile et intégration;IA;Intégration et accès à la nationalité française;104;Accompagnement du plan de traitement des foyers de  travailleurs migrants;16;;;
+602;Budget général;1;Investissements d'avenir;AV;Soutien des progrès de l'enseignement et de la recherche;421;Nouveaux cursus à l'université;1;;;
+603;Budget général;1;Investissements d'avenir;AV;Soutien des progrès de l'enseignement et de la recherche;421;Programmes prioritaires de recherche;2;;;
+604;Budget général;1;Investissements d'avenir;AV;Soutien des progrès de l'enseignement et de la recherche;421;Équipements structurants de recherche;3;;;
+605;Budget général;1;Investissements d'avenir;AV;Soutien des progrès de l'enseignement et de la recherche;421;Soutien des grandes universités de recherche;4;;;
+606;Budget général;1;Investissements d'avenir;AV;Soutien des progrès de l'enseignement et de la recherche;421;Constitution d'écoles universitaires de recherche;5;;;
+607;Budget général;1;Investissements d'avenir;AV;Soutien des progrès de l'enseignement et de la recherche;421;Créations expérimentales de sociétés universitaires et scientifiques;6;;;
+608;Budget général;1;Investissements d'avenir;AV;Soutien des progrès de l'enseignement et de la recherche;421;Territoires d'innovation pédagogique;7;;;
+609;Budget général;1;Investissements d'avenir;AV;Valorisation de la recherche;422;Intégration des SATT, incubateurs et accélérateurs;1;;;
+610;Budget général;1;Investissements d'avenir;AV;Valorisation de la recherche;422;Fonds national post-maturation "Frontier venture";2;;;
+611;Budget général;1;Investissements d'avenir;AV;Valorisation de la recherche;422;Démonstrateurs et territoires d'innovation de grande ambition;3;;;
+612;Budget général;1;Investissements d'avenir;AV;Valorisation de la recherche;422;Nouveaux écosystèmes d'innovation;4;;;
+613;Budget général;1;Investissements d'avenir;AV;Valorisation de la recherche;422;Accélération du développement des écosystèmes d'innovation performants;5;;;
+614;Budget général;1;Investissements d'avenir;AV;Accélération de la modernisation des entreprises;423;Soutien à l'innovation collaborative;1;;;
+615;Budget général;1;Investissements d'avenir;AV;Accélération de la modernisation des entreprises;423;Accompagnement et transformation des filières;2;;;
+616;Budget général;1;Investissements d'avenir;AV;Accélération de la modernisation des entreprises;423;Industrie du futur;3;;;
+617;Budget général;1;Investissements d'avenir;AV;Accélération de la modernisation des entreprises;423;Adaptation et qualification de la main d'oeuvre;4;;;
+618;Budget général;1;Investissements d'avenir;AV;Accélération de la modernisation des entreprises;423;Concours d'innovation;5;;;
+619;Budget général;1;Investissements d'avenir;AV;Accélération de la modernisation des entreprises;423;Fonds national d'amorçage n° 2;6;;;
+620;Budget général;1;Investissements d'avenir;AV;Accélération de la modernisation des entreprises;423;Fonds à l'internationalisation des PME;7;;;
+621;Budget général;1;Investissements d'avenir;AV;Accélération de la modernisation des entreprises;423;Fonds de fonds "Multicap Croissance" n° 2;8;;;
+622;Budget général;1;Investissements d'avenir;AV;Accélération de la modernisation des entreprises;423;Grands défis;9;;;
+623;Budget général;1;Justice;JA;Justice judiciaire;166;Traitement et jugement des contentieux civils;1;;;
+624;Budget général;1;Justice;JA;Justice judiciaire;166;Conduite de la politique pénale et jugement des affaires pénales;2;;;
+625;Budget général;1;Justice;JA;Justice judiciaire;166;Cassation;3;;;
+626;Budget général;1;Justice;JA;Justice judiciaire;166;Enregistrement des décisions judiciaires;5;;;
+627;Budget général;1;Justice;JA;Justice judiciaire;166;Soutien;6;;;
+628;Budget général;1;Justice;JA;Justice judiciaire;166;Formation;7;;;
+629;Budget général;1;Justice;JA;Justice judiciaire;166;Support à l'accès au droit et à la justice;8;;;
+630;Budget général;1;Justice;JA;Administration pénitentiaire;107;Garde et contrôle des personnes placées sous main de justice;1;;;
+631;Budget général;1;Justice;JA;Administration pénitentiaire;107;Accueil et accompagnement des personnes placées sous main de justice;2;;;
+632;Budget général;1;Justice;JA;Administration pénitentiaire;107;Soutien et formation;4;;;
+633;Budget général;1;Justice;JA;Protection judiciaire de la jeunesse;182;Mise en oeuvre des décisions judiciaires;1;;;
+634;Budget général;1;Justice;JA;Protection judiciaire de la jeunesse;182;Soutien;3;;;
+635;Budget général;1;Justice;JA;Protection judiciaire de la jeunesse;182;Formation;4;;;
+636;Budget général;1;Justice;JA;Accès au droit et à la justice;101;Aide juridictionnelle;1;;;
+637;Budget général;1;Justice;JA;Accès au droit et à la justice;101;Développement de l'accès au droit et du réseau judiciaire de proximité;2;;;
+638;Budget général;1;Justice;JA;Accès au droit et à la justice;101;Aide aux victimes;3;;;
+639;Budget général;1;Justice;JA;Accès au droit et à la justice;101;Médiation familiale et espaces de rencontre;4;;;
+640;Budget général;1;Justice;JA;Accès au droit et à la justice;101;Indemnisation des avoués;5;;;
+641;Budget général;1;Justice;JA;Conduite et pilotage de la politique de la justice;310;État major;1;;;
+642;Budget général;1;Justice;JA;Conduite et pilotage de la politique de la justice;310;Activité normative;2;;;
+643;Budget général;1;Justice;JA;Conduite et pilotage de la politique de la justice;310;Évaluation, contrôle, études et recherche;3;;;
+644;Budget général;1;Justice;JA;Conduite et pilotage de la politique de la justice;310;Gestion de l'administration centrale;4;;;
+645;Budget général;1;Justice;JA;Conduite et pilotage de la politique de la justice;310;Action informatique ministérielle;9;;;
+646;Budget général;1;Justice;JA;Conduite et pilotage de la politique de la justice;310;Action sociale ministérielle;10;;;
+647;Budget général;1;Justice;JA;Conseil supérieur de la magistrature;335;Conseil supérieur de la magistrature;1;;;
+648;Budget général;1;Médias, livre et industries culturelles;MA;Presse et médias;180;Relations financières avec l'AFP;1;;;
+649;Budget général;1;Médias, livre et industries culturelles;MA;Presse et médias;180;Aides à la presse;2;;;
+650;Budget général;1;Médias, livre et industries culturelles;MA;Presse et médias;180;Soutien aux médias de proximité;5;;;
+651;Budget général;1;Médias, livre et industries culturelles;MA;Presse et médias;180;Soutien à l'expression radiophonique locale;6;;;
+652;Budget général;1;Médias, livre et industries culturelles;MA;Presse et médias;180;Compagnie internationale de radio et télévision (CIRT);7;;;
+653;Budget général;1;Médias, livre et industries culturelles;MA;Livre et industries culturelles;334;Livre et lecture;1;;;
+654;Budget général;1;Médias, livre et industries culturelles;MA;Livre et industries culturelles;334;Industries culturelles;2;;;
+655;Budget général;1;Outre-mer;OA;Emploi outre-mer;138;Soutien aux entreprises;1;;;
+656;Budget général;1;Outre-mer;OA;Emploi outre-mer;138;Aide à l'insertion et à la qualification professionnelle;2;;;
+657;Budget général;1;Outre-mer;OA;Emploi outre-mer;138;Pilotage des politiques des outre-mer;3;;;
+658;Budget général;1;Outre-mer;OA;Emploi outre-mer;138;Financement de léconomie;4;;;
+659;Budget général;1;Outre-mer;OA;Conditions de vie outre-mer;123;Logement;1;;;
+660;Budget général;1;Outre-mer;OA;Conditions de vie outre-mer;123;Aménagement  du territoire;2;;;
+661;Budget général;1;Outre-mer;OA;Conditions de vie outre-mer;123;Continuité territoriale;3;;;
+662;Budget général;1;Outre-mer;OA;Conditions de vie outre-mer;123;Sanitaire, social, culture, jeunesse et sports;4;;;
+663;Budget général;1;Outre-mer;OA;Conditions de vie outre-mer;123;Collectivités territoriales;6;;;
+664;Budget général;1;Outre-mer;OA;Conditions de vie outre-mer;123;Insertion économique et coopération régionales;7;;;
+665;Budget général;1;Outre-mer;OA;Conditions de vie outre-mer;123;Fonds exceptionnel d'investissement;8;;;
+666;Budget général;1;Outre-mer;OA;Conditions de vie outre-mer;123;Appui à l'accès aux financements bancaires;9;;;
+667;Budget général;1;Pouvoirs publics;PB;Présidence de la République;501;Présidence de la République;1;;;
+668;Budget général;1;Pouvoirs publics;PB;Assemblée nationale;511;Assemblée nationale;1;;;
+669;Budget général;1;Pouvoirs publics;PB;Sénat;521;Sénat;1;;;
+670;Budget général;1;Pouvoirs publics;PB;Sénat;521;Jardin du Luxembourg;2;;;
+671;Budget général;1;Pouvoirs publics;PB;Sénat;521;Musée du Luxembourg;3;;;
+672;Budget général;1;Pouvoirs publics;PB;La Chaîne parlementaire;541;La Chaîne parlementaire - Assemblée nationale;1;;;
+673;Budget général;1;Pouvoirs publics;PB;La Chaîne parlementaire;541;Public Sénat;2;;;
+674;Budget général;1;Pouvoirs publics;PB;Indemnités des représentants français au Parlement européen;542;Indemnités des représentants français au Parlement européen;1;;;
+675;Budget général;1;Pouvoirs publics;PB;Conseil constitutionnel;531;Conseil constitutionnel;1;;;
+676;Budget général;1;Pouvoirs publics;PB;Haute Cour;532;Haute Cour;1;;;
+677;Budget général;1;Pouvoirs publics;PB;Cour de justice de la République;533;Cour de justice de la République;1;;;
+678;Budget général;1;Recherche et enseignement supérieur;RA;Formations supérieures et recherche universitaire;150;Formation initiale et continue du baccalauréat à la licence;1;;;
+679;Budget général;1;Recherche et enseignement supérieur;RA;Formations supérieures et recherche universitaire;150;Formation initiale et continue de niveau master;2;;;
+680;Budget général;1;Recherche et enseignement supérieur;RA;Formations supérieures et recherche universitaire;150;Formation initiale et continue de niveau doctorat;3;;;
+681;Budget général;1;Recherche et enseignement supérieur;RA;Formations supérieures et recherche universitaire;150;Établissements d'enseignement privés;4;;;
+682;Budget général;1;Recherche et enseignement supérieur;RA;Formations supérieures et recherche universitaire;150;Bibliothèques et documentation;5;;;
+683;Budget général;1;Recherche et enseignement supérieur;RA;Formations supérieures et recherche universitaire;150;Diffusion des savoirs et musées;13;;;
+684;Budget général;1;Recherche et enseignement supérieur;RA;Formations supérieures et recherche universitaire;150;Immobilier;14;;;
+685;Budget général;1;Recherche et enseignement supérieur;RA;Formations supérieures et recherche universitaire;150;Pilotage et support du programme;15;;;
+686;Budget général;1;Recherche et enseignement supérieur;RA;Formations supérieures et recherche universitaire;150;Recherche;17;;;
+687;Budget général;1;Recherche et enseignement supérieur;RA;Vie étudiante;231;Aides directes;1;;;
+688;Budget général;1;Recherche et enseignement supérieur;RA;Vie étudiante;231;Aides indirectes;2;;;
+689;Budget général;1;Recherche et enseignement supérieur;RA;Vie étudiante;231;Santé des étudiants et activités associatives, culturelles et sportives;3;;;
+690;Budget général;1;Recherche et enseignement supérieur;RA;Vie étudiante;231;Pilotage et animation du programme;4;;;
+691;Budget général;1;Recherche et enseignement supérieur;RA;Recherches scientifiques et technologiques pluridisciplinaires;172;Pilotage et animation;1;;;
+692;Budget général;1;Recherche et enseignement supérieur;RA;Recherches scientifiques et technologiques pluridisciplinaires;172;Agence nationale de la recherche;2;;;
+693;Budget général;1;Recherche et enseignement supérieur;RA;Recherches scientifiques et technologiques pluridisciplinaires;172;Recherches interdisciplinaires et transversales;11;;;
+694;Budget général;1;Recherche et enseignement supérieur;RA;Recherches scientifiques et technologiques pluridisciplinaires;172;Diffusion, valorisation et transfert des connaissances et des technologies;12;;;
+695;Budget général;1;Recherche et enseignement supérieur;RA;Recherches scientifiques et technologiques pluridisciplinaires;172;Grandes infrastructures de recherche;13;;;
+696;Budget général;1;Recherche et enseignement supérieur;RA;Recherches scientifiques et technologiques pluridisciplinaires;172;Moyens généraux et d'appui à la recherche;14;;;
+697;Budget général;1;Recherche et enseignement supérieur;RA;Recherches scientifiques et technologiques pluridisciplinaires;172;Recherches scientifiques et technologiques en sciences de la vie et de la santé;15;;;
+698;Budget général;1;Recherche et enseignement supérieur;RA;Recherches scientifiques et technologiques pluridisciplinaires;172;Recherches scientifiques et technologiques en sciences et techniques de l'information;16;;;
+699;Budget général;1;Recherche et enseignement supérieur;RA;Recherches scientifiques et technologiques pluridisciplinaires;172;Recherches scientifiques et technologiques dans le domaine de l'énergie;17;;;
+700;Budget général;1;Recherche et enseignement supérieur;RA;Recherches scientifiques et technologiques pluridisciplinaires;172;Recherches scientifiques et technologiques dans le domaine de l'environnement;18;;;
+701;Budget général;1;Recherche et enseignement supérieur;RA;Recherches scientifiques et technologiques pluridisciplinaires;172;Recherches scientifiques et technologiques en sciences humaines et sciences sociales;19;;;
+702;Budget général;1;Recherche et enseignement supérieur;RA;Recherche spatiale;193;Développement de la technologie spatiale au service de la science;1;;;
+703;Budget général;1;Recherche et enseignement supérieur;RA;Recherche spatiale;193;Développement de la technologie spatiale au service de l'observation de la terre;2;;;
+704;Budget général;1;Recherche et enseignement supérieur;RA;Recherche spatiale;193;Développement de la technologie spatiale au service de la recherche en sciences de l'information et de la communication;3;;;
+705;Budget général;1;Recherche et enseignement supérieur;RA;Recherche spatiale;193;Maîtrise de l'accès à l'espace;4;;;
+706;Budget général;1;Recherche et enseignement supérieur;RA;Recherche spatiale;193;Maîtrise des technologies orbitales et de l'innovation technologique;5;;;
+707;Budget général;1;Recherche et enseignement supérieur;RA;Recherche spatiale;193;Moyens généraux et d'appui à la recherche;6;;;
+708;Budget général;1;Recherche et enseignement supérieur;RA;Recherche spatiale;193;Développement des satellites de météorologie;7;;;
+709;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche dans le domaine des risques;11;;;
+710;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche dans le domaine des transports, de la construction et de l'aménagement;12;;;
+711;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche partenariale dans le développement et l'aménagement durable;13;;;
+712;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche et développement dans le domaine de l'aéronautique civile;14;;;
+713;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Charges nucléaires de long terme des installations du CEA;15;;;
+714;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche dans le domaine de l'énergie nucléaire;16;;;
+715;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche dans le domaine des nouvelles technologies de l'énergie;17;;;
+716;Budget général;1;Recherche et enseignement supérieur;RA;Recherche et enseignement supérieur en matière économique et industrielle;192;Organismes de formation supérieure et de recherche;1;;;
+717;Budget général;1;Recherche et enseignement supérieur;RA;Recherche et enseignement supérieur en matière économique et industrielle;192;Soutien et diffusion de l'innovation technologique;2;;;
+718;Budget général;1;Recherche et enseignement supérieur;RA;Recherche et enseignement supérieur en matière économique et industrielle;192;Soutien de la recherche industrielle stratégique;3;;;
+719;Budget général;1;Recherche et enseignement supérieur;RA;Recherche duale (civile et militaire);191;Recherche duale en sciences du vivant;1;;;
+720;Budget général;1;Recherche et enseignement supérieur;RA;Recherche duale (civile et militaire);191;Recherche duale en sciences et techniques de l'information et de la communication;2;;;
+721;Budget général;1;Recherche et enseignement supérieur;RA;Recherche duale (civile et militaire);191;Recherche duale dans le domaine aérospatial;3;;;
+722;Budget général;1;Recherche et enseignement supérieur;RA;Recherche duale (civile et militaire);191;Autres recherches et développements technologiques duaux;4;;;
+723;Budget général;1;Recherche et enseignement supérieur;RA;Recherche culturelle et culture scientifique;186;Recherche culturelle;1;;;
+724;Budget général;1;Recherche et enseignement supérieur;RA;Recherche culturelle et culture scientifique;186;Culture scientifique et technique;3;;;
+725;Budget général;1;Recherche et enseignement supérieur;RA;Enseignement supérieur et recherche agricoles;142;Enseignement supérieur;1;;;
+726;Budget général;1;Recherche et enseignement supérieur;RA;Enseignement supérieur et recherche agricoles;142;Recherche, développement et transfert de technologie;2;;;
+727;Budget général;1;Régimes sociaux et de retraite;RB;Régimes sociaux et de retraite des transports terrestres;198;Régime de retraite du personnel de la SNCF;3;;;
+728;Budget général;1;Régimes sociaux et de retraite;RB;Régimes sociaux et de retraite des transports terrestres;198;Régime de retraite du personnel de la RATP;4;;;
+729;Budget général;1;Régimes sociaux et de retraite;RB;Régimes sociaux et de retraite des transports terrestres;198;Autres régimes;5;;;
+730;Budget général;1;Régimes sociaux et de retraite;RB;Régimes de retraite et de sécurité sociale des marins;197;Régimes de retraite et de sécurité sociale des marins;1;;;
+731;Budget général;1;Régimes sociaux et de retraite;RB;Régimes de retraite des mines, de la SEITA et divers;195;Versements au fonds spécial de retraite de la caisse autonome nationale de sécurité sociale dans les mines;1;;;
+732;Budget général;1;Régimes sociaux et de retraite;RB;Régimes de retraite des mines, de la SEITA et divers;195;Régime de retraite de la SEITA;2;;;
+733;Budget général;1;Régimes sociaux et de retraite;RB;Régimes de retraite des mines, de la SEITA et divers;195;Caisse des retraites des régies ferroviaires d'outre-mer;4;;;
+734;Budget général;1;Régimes sociaux et de retraite;RB;Régimes de retraite des mines, de la SEITA et divers;195;Versements liés à la liquidation de l'ORTF;7;;;
+735;Budget général;1;Régimes sociaux et de retraite;RB;Régimes de retraite des mines, de la SEITA et divers;195;Régime de retraite complémentaire des exploitants agricoles (RCO);11;;;
+736;Budget général;1;Relations avec les collectivités territoriales;RC;Concours financiers aux collectivités territoriales et à leurs groupements;119;Soutien aux projets des communes et groupements de communes;1;;;
+737;Budget général;1;Relations avec les collectivités territoriales;RC;Concours financiers aux collectivités territoriales et à leurs groupements;119;Dotation générale de décentralisation des communes;2;;;
+738;Budget général;1;Relations avec les collectivités territoriales;RC;Concours financiers aux collectivités territoriales et à leurs groupements;119;Soutien aux projets des départements et des régions;3;;;
+739;Budget général;1;Relations avec les collectivités territoriales;RC;Concours financiers aux collectivités territoriales et à leurs groupements;119;Dotation générale de décentralisation des départements;4;;;
+740;Budget général;1;Relations avec les collectivités territoriales;RC;Concours financiers aux collectivités territoriales et à leurs groupements;119;Dotation générale de décentralisation des régions;5;;;
+741;Budget général;1;Relations avec les collectivités territoriales;RC;Concours financiers aux collectivités territoriales et à leurs groupements;119;Dotation générale de décentralisation concours particuliers;6;;;
+742;Budget général;1;Relations avec les collectivités territoriales;RC;Concours financiers aux collectivités territoriales et à leurs groupements;119;Soutien à l'investissement - Part métropoles;7;;;
+743;Budget général;1;Relations avec les collectivités territoriales;RC;Concours spécifiques et administration;122;Aides exceptionnelles aux collectivités territoriales;1;;;
+744;Budget général;1;Relations avec les collectivités territoriales;RC;Concours spécifiques et administration;122;Administration des relations avec les collectivités territoriales;2;;;
+745;Budget général;1;Relations avec les collectivités territoriales;RC;Concours spécifiques et administration;122;Dotations Outre-Mer;4;;;
+746;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et restitutions liés à la mécanique de l'impôt;11;;;
+747;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liées à des politiques publiques;12;;;
+748;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;13;;;
+749;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs);201;Taxe professionnelle et contribution économique territoriale  et autres impôts économiques créés ou modifiés dans le cadre de la réforme de la taxe professionnelle;1;;;
+750;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs);201;Taxes foncières;2;;;
+751;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs);201;Taxe d'habitation;3;;;
+752;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs);201;Admission en non valeur d'impôts locaux;4;;;
+753;Budget général;1;Santé;SA;Prévention, sécurité sanitaire et offre de soins;204;Pilotage de la politique de santé publique;11;;;
+754;Budget général;1;Santé;SA;Prévention, sécurité sanitaire et offre de soins;204;Santé des populations;12;;;
+755;Budget général;1;Santé;SA;Prévention, sécurité sanitaire et offre de soins;204;Prévention des maladies chroniques et qualité de vie des malades;14;;;
+756;Budget général;1;Santé;SA;Prévention, sécurité sanitaire et offre de soins;204;Prévention des risques liés à l'environnement et à l'alimentation;15;;;
+757;Budget général;1;Santé;SA;Prévention, sécurité sanitaire et offre de soins;204;Veille et sécurité sanitaire;16;;;
+758;Budget général;1;Santé;SA;Prévention, sécurité sanitaire et offre de soins;204;Politique des produits de santé et de la qualité des pratiques et des soins;17;;;
+759;Budget général;1;Santé;SA;Prévention, sécurité sanitaire et offre de soins;204;Projets régionaux de santé;18;;;
+760;Budget général;1;Santé;SA;Prévention, sécurité sanitaire et offre de soins;204;Modernisation de l'offre de soins;19;;;
+761;Budget général;1;Santé;SA;Protection maladie;183;Aide médicale de l'Etat;2;;;
+762;Budget général;1;Santé;SA;Protection maladie;183;Fonds d'indemnisation des victimes de l'amiante;3;;;
+763;Budget général;1;Sécurités;SB;Police nationale;176;Ordre public et protection de la souveraineté;1;;;
+764;Budget général;1;Sécurités;SB;Police nationale;176;Sécurité et paix publiques;2;;;
+765;Budget général;1;Sécurités;SB;Police nationale;176;Sécurité routière;3;;;
+766;Budget général;1;Sécurités;SB;Police nationale;176;Police des étrangers et sûreté des transports internationaux;4;;;
+767;Budget général;1;Sécurités;SB;Police nationale;176;Missions de police judiciaire et concours à la justice;5;;;
+768;Budget général;1;Sécurités;SB;Police nationale;176;Commandement, ressources humaines et logistique;6;;;
+769;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Ordre et sécurité publics;1;;;
+770;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Sécurité routière;2;;;
+771;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Missions de police judiciaire et concours à la justice;3;;;
+772;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Commandement, ressources humaines et logistique;4;;;
+773;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Exercice des missions militaires;5;;;
+774;Budget général;1;Sécurités;SB;Sécurité et éducation routières;207;Observation, prospective, réglementation et soutien au programme;1;;;
+775;Budget général;1;Sécurités;SB;Sécurité et éducation routières;207;Démarches interministérielles et communication;2;;;
+776;Budget général;1;Sécurités;SB;Sécurité et éducation routières;207;Éducation routière;3;;;
+777;Budget général;1;Sécurités;SB;Sécurité civile;161;Prévention et gestion de crises;11;;;
+778;Budget général;1;Sécurités;SB;Sécurité civile;161;Préparation et interventions spécialisées des moyens nationaux;12;;;
+779;Budget général;1;Sécurités;SB;Sécurité civile;161;Soutien aux acteurs de la sécurité civile;13;;;
+780;Budget général;1;Sécurités;SB;Sécurité civile;161;Fonctionnement, soutien et logistique;14;;;
+781;Budget général;1;Solidarité, insertion et égalité des chances;SE;Inclusion sociale et protection des personnes;304;Prime d'activité et autres dispositifs;11;;;
+782;Budget général;1;Solidarité, insertion et égalité des chances;SE;Inclusion sociale et protection des personnes;304;Ingénierie, outils de la gouvernance et expérimentations;13;;;
+783;Budget général;1;Solidarité, insertion et égalité des chances;SE;Inclusion sociale et protection des personnes;304;Aide alimentaire;14;;;
+784;Budget général;1;Solidarité, insertion et égalité des chances;SE;Inclusion sociale et protection des personnes;304;Qualification en travail social;15;;;
+785;Budget général;1;Solidarité, insertion et égalité des chances;SE;Inclusion sociale et protection des personnes;304;Protection juridique des majeurs;16;;;
+786;Budget général;1;Solidarité, insertion et égalité des chances;SE;Inclusion sociale et protection des personnes;304;Protection et accompagnement des enfants, des jeunes et des familles vulnérables;17;;;
+787;Budget général;1;Solidarité, insertion et égalité des chances;SE;Inclusion sociale et protection des personnes;304;Aide à la réinsertion familiale et sociale des anciens migrants dans leur pays dorigine (ARFS);18;;;
+788;Budget général;1;Solidarité, insertion et égalité des chances;SE;Inclusion sociale et protection des personnes;304;Stratégie interministérielle de Prévention et de Lutte contre la Pauvreté des Enfants et des Jeunes;19;;;
+789;Budget général;1;Solidarité, insertion et égalité des chances;SE;Handicap et dépendance;157;Allocations et aides en faveur des personnes handicapées;12;;;
+790;Budget général;1;Solidarité, insertion et égalité des chances;SE;Handicap et dépendance;157;Pilotage du programme et animation des politiques inclusives;13;;;
+791;Budget général;1;Solidarité, insertion et égalité des chances;SE;Égalité entre les femmes et les hommes;137;Politiques publiques - Accès au droit;21;;;
+792;Budget général;1;Solidarité, insertion et égalité des chances;SE;Égalité entre les femmes et les hommes;137;Partenariats et innovations;22;;;
+793;Budget général;1;Solidarité, insertion et égalité des chances;SE;Égalité entre les femmes et les hommes;137;Soutien du programme égalité entre les femmes et les hommes;23;;;
+794;Budget général;1;Solidarité, insertion et égalité des chances;SE;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;124;Fonctionnement des services;10;;;
+795;Budget général;1;Solidarité, insertion et égalité des chances;SE;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;124;Systèmes d'information;11;;;
+796;Budget général;1;Solidarité, insertion et égalité des chances;SE;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;124;Affaires immobilières;12;;;
+797;Budget général;1;Solidarité, insertion et égalité des chances;SE;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;124;Communication;14;;;
+798;Budget général;1;Solidarité, insertion et égalité des chances;SE;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;124;Affaires européennes et internationales;15;;;
+799;Budget général;1;Solidarité, insertion et égalité des chances;SE;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;124;Statistiques, études et recherche;16;;;
+800;Budget général;1;Solidarité, insertion et égalité des chances;SE;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;124;Financement des agences régionales de santé;17;;;
+801;Budget général;1;Solidarité, insertion et égalité des chances;SE;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;124;Personnels mettant en oeuvre les politiques sociales et de la santé;18;;;
+802;Budget général;1;Solidarité, insertion et égalité des chances;SE;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;124;Personnels mettant en oeuvre les politiques du sport, de la jeunesse, de l'éducation populaire et de la vie associative;19;;;
+803;Budget général;1;Solidarité, insertion et égalité des chances;SE;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;124;Personnels mettant en oeuvre les politiques pour les droits des femmes;20;;;
+804;Budget général;1;Solidarité, insertion et égalité des chances;SE;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;124;Personnels mettant en uvre les politiques de la ville, du logement et de l'hébergement;21;;;
+805;Budget général;1;Solidarité, insertion et égalité des chances;SE;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;124;Personnels transversaux et de soutien;22;;;
+806;Budget général;1;Solidarité, insertion et égalité des chances;SE;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;124;Politique des ressources humaines;23;;;
+807;Budget général;1;Sport, jeunesse et vie associative;SF;Sport;219;Promotion du sport pour le plus grand nombre;1;;;
+808;Budget général;1;Sport, jeunesse et vie associative;SF;Sport;219;Développement du sport de haut niveau;2;;;
+809;Budget général;1;Sport, jeunesse et vie associative;SF;Sport;219;Prévention par le sport et protection des sportifs;3;;;
+810;Budget général;1;Sport, jeunesse et vie associative;SF;Sport;219;Promotion des métiers du sport;4;;;
+811;Budget général;1;Sport, jeunesse et vie associative;SF;Jeunesse et vie associative;163;Développement de la vie associative;1;;;
+812;Budget général;1;Sport, jeunesse et vie associative;SF;Jeunesse et vie associative;163;Actions en faveur de la jeunesse et de l'éducation populaire;2;;;
+813;Budget général;1;Sport, jeunesse et vie associative;SF;Jeunesse et vie associative;163;Développement du service civique;4;;;
+814;Budget général;1;Sport, jeunesse et vie associative;SF;Jeux olympiques et paralympiques 2024;350;Société de livraison des ouvrages olympiques et paralympiques;1;;;
+815;Budget général;1;Sport, jeunesse et vie associative;SF;Jeux olympiques et paralympiques 2024;350;Comité d'organisation des jeux olympiques et paralympiques;2;;;
+816;Budget général;1;Sport, jeunesse et vie associative;SF;Jeux olympiques et paralympiques 2024;350;Haute performance des jeux olympiques et paralympiques;3;;;
+817;Budget général;1;Sport, jeunesse et vie associative;SF;Jeux olympiques et paralympiques 2024;350;Héritage des jeux olympiques et paralympiques;4;;;
+818;Budget général;1;Travail et emploi;TB;Accès et retour à l'emploi;102;Amélioration de lefficacité du service public de lemploi;1;;;
+819;Budget général;1;Travail et emploi;TB;Accès et retour à l'emploi;102;Amélioration des dispositifs en faveur de lemploi des personnes les plus éloignées du marché du travail;2;;;
+820;Budget général;1;Travail et emploi;TB;Accès et retour à l'emploi;102;Plan d'investissement des compétences;3;;;
+821;Budget général;1;Travail et emploi;TB;Accompagnement des mutations économiques et développement de l'emploi;103;Anticipation et accompagnement des conséquences des mutations économiques sur l'emploi;1;;;
+822;Budget général;1;Travail et emploi;TB;Accompagnement des mutations économiques et développement de l'emploi;103;Amélioration de l'insertion dans l'emploi par l'adaptation des qualifications et la reconnaissance des compétences;2;;;
+823;Budget général;1;Travail et emploi;TB;Accompagnement des mutations économiques et développement de l'emploi;103;Développement de l'emploi;3;;;
+824;Budget général;1;Travail et emploi;TB;Accompagnement des mutations économiques et développement de l'emploi;103;Plan d'investissement des compétences;4;;;
+825;Budget général;1;Travail et emploi;TB;Amélioration de la qualité de l'emploi et des relations du travail;111;Santé et sécurité au travail;1;;;
+826;Budget général;1;Travail et emploi;TB;Amélioration de la qualité de l'emploi et des relations du travail;111;Qualité et effectivité du droit;2;;;
+827;Budget général;1;Travail et emploi;TB;Amélioration de la qualité de l'emploi et des relations du travail;111;Dialogue social et démocratie sociale;3;;;
+828;Budget général;1;Travail et emploi;TB;Amélioration de la qualité de l'emploi et des relations du travail;111;Lutte contre le travail illégal;4;;;
+829;Budget général;1;Travail et emploi;TB;Conception, gestion et évaluation des politiques de l'emploi et du travail;155;Fonds social européen - Assistance technique;7;;;
+830;Budget général;1;Travail et emploi;TB;Conception, gestion et évaluation des politiques de l'emploi et du travail;155;Fonctionnement des services;8;;;
+831;Budget général;1;Travail et emploi;TB;Conception, gestion et évaluation des politiques de l'emploi et du travail;155;Systèmes d'information;9;;;
+832;Budget général;1;Travail et emploi;TB;Conception, gestion et évaluation des politiques de l'emploi et du travail;155;Affaires immobilières;10;;;
+833;Budget général;1;Travail et emploi;TB;Conception, gestion et évaluation des politiques de l'emploi et du travail;155;Communication;11;;;
+834;Budget général;1;Travail et emploi;TB;Conception, gestion et évaluation des politiques de l'emploi et du travail;155;Etudes, statistiques évaluation et recherche;12;;;
+835;Budget général;1;Travail et emploi;TB;Conception, gestion et évaluation des politiques de l'emploi et du travail;155;Politique des ressources humaines;13;;;
+836;Budget général;1;Travail et emploi;TB;Conception, gestion et évaluation des politiques de l'emploi et du travail;155;Personnels mettant en oeuvre les politiques d'accès et retour à l'emploi;14;;;
+837;Budget général;1;Travail et emploi;TB;Conception, gestion et évaluation des politiques de l'emploi et du travail;155;Personnels mettant en oeuvre les politiques d'accompagnement des mutations économiques et développement de l'emploi;15;;;
+838;Budget général;1;Travail et emploi;TB;Conception, gestion et évaluation des politiques de l'emploi et du travail;155;Personnels mettant en oeuvre les politiques d'amélioration de la qualité de l'emploi et des relations du travail;16;;;
+839;Budget général;1;Travail et emploi;TB;Conception, gestion et évaluation des politiques de l'emploi et du travail;155;Personnels de statistiques, études et recherche;17;;;
+840;Budget général;1;Travail et emploi;TB;Conception, gestion et évaluation des politiques de l'emploi et du travail;155;Personnels transversaux et de soutien;18;;;
+841;Budgets annexes;2;Contrôle et exploitation aériens;XC;Soutien aux prestations de l'aviation civile;613;Ressources humaines et management;1;;;
+842;Budgets annexes;2;Contrôle et exploitation aériens;XC;Soutien aux prestations de l'aviation civile;613;Logistique;2;;;
+843;Budgets annexes;2;Contrôle et exploitation aériens;XC;Soutien aux prestations de l'aviation civile;613;Affaires financières;3;;;
+844;Budgets annexes;2;Contrôle et exploitation aériens;XC;Soutien aux prestations de l'aviation civile;613;Formation aéronautique;4;;;
+845;Budgets annexes;2;Contrôle et exploitation aériens;XC;Navigation aérienne;612;Soutien et prestations externes de la Navigation aérienne;1;;;
+846;Budgets annexes;2;Contrôle et exploitation aériens;XC;Navigation aérienne;612;Exploitation et innovation de la Navigation aérienne;2;;;
+847;Budgets annexes;2;Contrôle et exploitation aériens;XC;Transports aériens, surveillance et certification;614;Développement durable et régulation;1;;;
+848;Budgets annexes;2;Contrôle et exploitation aériens;XC;Transports aériens, surveillance et certification;614;Surveillance et certification;2;;;
+849;Budgets annexes;2;Contrôle et exploitation aériens;XC;Transports aériens, surveillance et certification;614;Enquêtes de sécurité aérienne;4;;;
+850;Budgets annexes;2;Publications officielles et information administrative;XJ;Édition et diffusion;623;Diffusion légale;1;;;
+851;Budgets annexes;2;Publications officielles et information administrative;XJ;Édition et diffusion;623;Information administrative, édition publique et promotion;2;;;
+852;Budgets annexes;2;Publications officielles et information administrative;XJ;Pilotage et ressources humaines;624;Pilotage, modernisation et activités numériques;1;;;
+853;Budgets annexes;2;Publications officielles et information administrative;XJ;Pilotage et ressources humaines;624;Promotion et distribution des publications;2;;;
+854;Budgets annexes;2;Publications officielles et information administrative;XJ;Pilotage et ressources humaines;624;Dépenses de personnel;3;;;
+855;Budgets annexes;2;Publications officielles et information administrative;XJ;Pilotage et ressources humaines;624;Convention Etat - Société anonyme de composition et d'impression des journaux officiels;4;;;
+856;Comptes d'affectation spéciale;3;Aides à l'acquisition de véhicules propres;YL;Contribution au financement de l'attribution d'aides à l'acquisition de véhicules propres;791;Contribution au financement de l'attribution d'aides à l'acquisition de véhicules propres;1;;;
+857;Comptes d'affectation spéciale;3;Aides à l'acquisition de véhicules propres;YL;Contribution au financement de l'attribution d'aides au retrait de véhicules polluants;792;Contribution au financement de l'attribution d'aides au retrait de véhicules polluants;1;;;
+858;Comptes d'affectation spéciale;3;Contrôle de la circulation et du stationnement routiers;YE;Structures et dispositifs de sécurité routière;751;Dispositifs de contrôle;1;;;
+859;Comptes d'affectation spéciale;3;Contrôle de la circulation et du stationnement routiers;YE;Structures et dispositifs de sécurité routière;751;Centre national de traitement;2;;;
+860;Comptes d'affectation spéciale;3;Contrôle de la circulation et du stationnement routiers;YE;Structures et dispositifs de sécurité routière;751;Soutien au programme;3;;;
+861;Comptes d'affectation spéciale;3;Contrôle de la circulation et du stationnement routiers;YE;Structures et dispositifs de sécurité routière;751;Fichier national du permis de conduire;4;;;
+862;Comptes d'affectation spéciale;3;Contrôle de la circulation et du stationnement routiers;YE;Contrôle et modernisation de la politique de la circulation et du stationnement routiers;753;Déploiement du procès-verbal électronique;1;;;
+863;Comptes d'affectation spéciale;3;Contrôle de la circulation et du stationnement routiers;YE;Contribution à l'équipement des collectivités territoriales pour l'amélioration des transports en commun, de la sécurité et de la circulation routières;754;Contribution à l'équipement des collectivités territoriales pour l'amélioration des transports en commun, de la sécurité et de la circulation routières;1;;;
+864;Comptes d'affectation spéciale;3;Contrôle de la circulation et du stationnement routiers;YE;Désendettement de l'État;755;Désendettement de l'État;1;;;
+865;Comptes d'affectation spéciale;3;Développement agricole et rural;YF;Développement et transfert en agriculture;775;Développement et transfert;1;;;
+866;Comptes d'affectation spéciale;3;Développement agricole et rural;YF;Développement et transfert en agriculture;775;Fonction support;2;;;
+867;Comptes d'affectation spéciale;3;Développement agricole et rural;YF;Recherche appliquée et innovation en agriculture;776;Recherche appliquée et innovation;1;;;
+868;Comptes d'affectation spéciale;3;Développement agricole et rural;YF;Recherche appliquée et innovation en agriculture;776;Fonction support;2;;;
+869;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Électrification rurale;793;Renforcement des réseaux;3;;;
+870;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Électrification rurale;793;Extension des réseaux;4;;;
+871;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Électrification rurale;793;Enfouissement et pose en façade;5;;;
+872;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Électrification rurale;793;Sécurisation des fils nus (hors faible section);6;;;
+873;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Électrification rurale;793;Sécurisation des fils nus de faible section;7;;;
+874;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Électrification rurale;793;Fonctionnement;8;;;
+875;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Électrification rurale;793;Déclaration d'utilité publique (Très haute tension);9;;;
+876;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Électrification rurale;793;Intempéries;10;;;
+877;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Opérations de maîtrise de la demande délectricité, de production délectricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées;794;Sites isolés;2;;;
+878;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Opérations de maîtrise de la demande délectricité, de production délectricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées;794;Installations de proximité en zone non interconnectée;3;;;
+879;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Opérations de maîtrise de la demande délectricité, de production délectricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées;794;Maîtrise de la demande d'énergie;4;;;
+880;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Opérations de maîtrise de la demande délectricité, de production délectricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées;794;Déclaration d'utilité publique (Très haute tension) - (Engagements antérieurs au 1er janvier 2013);5;;;
+881;Comptes d'affectation spéciale;3;Financement des aides aux collectivités pour l'électrification rurale;YK;Opérations de maîtrise de la demande délectricité, de production délectricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées;794;Intempéries - (Engagements antérieurs au 1er janvier 2013);6;;;
+882;Comptes d'affectation spéciale;3;Financement national du développement et de la modernisation de l'apprentissage;YJ;Répartition régionale de la ressource consacrée au développement de l'apprentissage;787;Répartition régionale de la ressource consacrée au développement de l'apprentissage;3;;;
+883;Comptes d'affectation spéciale;3;Financement national du développement et de la modernisation de l'apprentissage;YJ;Correction financière des disparités régionales de taxe d'apprentissage et incitations au développement de l'apprentissage;790;Correction financière des disparités régionales de taxe d'apprentissage et incitations au développement de l'apprentissage;1;;;
+884;Comptes d'affectation spéciale;3;Gestion du patrimoine immobilier de l'État;YB;Contribution des cessions immobilières au désendettement de l'État;721;Contribution au désendettement de l'État;1;;;
+885;Comptes d'affectation spéciale;3;Gestion du patrimoine immobilier de l'État;YB;Opérations immobilières et entretien des bâtiments de l'État;723;Opérations structurantes et cessions;11;;;
+886;Comptes d'affectation spéciale;3;Gestion du patrimoine immobilier de l'État;YB;Opérations immobilières et entretien des bâtiments de l'État;723;Contrôles règlementaires, audits, expertises et diagnostics;12;;;
+887;Comptes d'affectation spéciale;3;Gestion du patrimoine immobilier de l'État;YB;Opérations immobilières et entretien des bâtiments de l'État;723;Maintenance à la charge du propriétaire;13;;;
+888;Comptes d'affectation spéciale;3;Gestion du patrimoine immobilier de l'État;YB;Opérations immobilières et entretien des bâtiments de l'État;723;Gros entretien, réhabilitation, mise en conformité et remise en état;14;;;
+889;Comptes d'affectation spéciale;3;Participation de la France au désendettement de la Grèce;YM;Versement de la France à la Grèce au titre de la restitution à cet État des revenus perçus sur les titres grecs;795;Versement de la France à la Grèce au titre de la restitution à cet État des revenus perçus par la Banque de France sur les titres grecs détenus en compte propre;1;;;
+890;Comptes d'affectation spéciale;3;Participation de la France au désendettement de la Grèce;YM;Versement de la France à la Grèce au titre de la restitution à cet État des revenus perçus sur les titres grecs;795;Versement de la France à la Grèce au titre de la restitution à cet État des revenus perçus par la Banque de France sur les titres grecs détenus au titre du portefeuille dit SMP;2;;;
+891;Comptes d'affectation spéciale;3;Participation de la France au désendettement de la Grèce;YM;Rétrocessions de trop-perçus à la Banque de France;796;Rétrocessions de trop-perçus à la Banque de France;1;;;
+892;Comptes d'affectation spéciale;3;Participations financières de l'État;YC;Opérations en capital intéressant les participations financières de l'État;731;Augmentations de capital, dotations en fonds propres, avances d'actionnaire et prêts assimilés;1;;;
+893;Comptes d'affectation spéciale;3;Participations financières de l'État;YC;Opérations en capital intéressant les participations financières de l'État;731;Achats ou souscriptions de titres, parts ou droits de société;3;;;
+894;Comptes d'affectation spéciale;3;Participations financières de l'État;YC;Opérations en capital intéressant les participations financières de l'État;731;Autres investissements financiers de nature patrimoniale;4;;;
+895;Comptes d'affectation spéciale;3;Participations financières de l'État;YC;Opérations en capital intéressant les participations financières de l'État;731;Prestations de services : commissions bancaires, frais juridiques et frais liés aux opérations de gestion des participations financières de l'État;5;;;
+896;Comptes d'affectation spéciale;3;Participations financières de l'État;YC;Opérations en capital intéressant les participations financières de l'État;731;Versements au profit du Mécanisme européen de stabilité;6;;;
+897;Comptes d'affectation spéciale;3;Participations financières de l'État;YC;Désendettement de l'État et d'établissements publics de l'État;732;Désendettement de l'État ou d'établissements publics de l'État;1;;;
+898;Comptes d'affectation spéciale;3;Pensions;YD;Pensions civiles et militaires de retraite et allocations temporaires d'invalidité;741;Fonctionnaires civils relevant du code des pensions civiles et militaires de retraite;1;;;
+899;Comptes d'affectation spéciale;3;Pensions;YD;Pensions civiles et militaires de retraite et allocations temporaires d'invalidité;741;Militaires relevant du code des pensions civiles et militaires de retraite;2;;;
+900;Comptes d'affectation spéciale;3;Pensions;YD;Pensions civiles et militaires de retraite et allocations temporaires d'invalidité;741;Allocations temporaires d'invalidité;3;;;
+901;Comptes d'affectation spéciale;3;Pensions;YD;Ouvriers des établissements industriels de l'État;742;Prestations vieillesse et invalidité;1;;;
+902;Comptes d'affectation spéciale;3;Pensions;YD;Ouvriers des établissements industriels de l'État;742;Autres dépenses spécifiques;3;;;
+903;Comptes d'affectation spéciale;3;Pensions;YD;Ouvriers des établissements industriels de l'État;742;Gestion du régime;4;;;
+904;Comptes d'affectation spéciale;3;Pensions;YD;Ouvriers des établissements industriels de l'État;742;Rentes accidents du travail des ouvriers civils des établissements militaires (RATOCEM);5;;;
+905;Comptes d'affectation spéciale;3;Pensions;YD;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;743;Reconnaissance de la Nation;1;;;
+906;Comptes d'affectation spéciale;3;Pensions;YD;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;743;Réparation;2;;;
+907;Comptes d'affectation spéciale;3;Pensions;YD;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;743;Pensions d'Alsace-Lorraine;3;;;
+908;Comptes d'affectation spéciale;3;Pensions;YD;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;743;Allocations de reconnaissance des anciens supplétifs;4;;;
+909;Comptes d'affectation spéciale;3;Pensions;YD;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;743;Pensions des anciens agents du chemin de fer franco-éthiopien;5;;;
+910;Comptes d'affectation spéciale;3;Pensions;YD;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;743;Pensions des sapeurs-pompiers et anciens agents de la défense passive victimes d'accident;6;;;
+911;Comptes d'affectation spéciale;3;Pensions;YD;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;743;Pensions de l'ORTF;7;;;
+912;Comptes d'affectation spéciale;3;Services nationaux de transport conventionnés de voyageurs;YI;Exploitation des services nationaux de transport conventionnés;785;Contribution à lexploitation des services nationaux de transport conventionnés;1;;;
+913;Comptes d'affectation spéciale;3;Services nationaux de transport conventionnés de voyageurs;YI;Exploitation des services nationaux de transport conventionnés;785;Frais d'enquêtes, d'études et de conseil relatifs à l'exploitation des services nationaux de transport conventionnés;2;;;
+914;Comptes d'affectation spéciale;3;Services nationaux de transport conventionnés de voyageurs;YI;Exploitation des services nationaux de transport conventionnés;785;Contributions versées aux régions au titre de lexploitation des services nationaux de transports antérieurement conventionnés;3;;;
+915;Comptes d'affectation spéciale;3;Services nationaux de transport conventionnés de voyageurs;YI;Matériel roulant des services nationaux de transport conventionnés;786;Contribution au matériel roulant des services nationaux de transport conventionnés;1;;;
+916;Comptes d'affectation spéciale;3;Services nationaux de transport conventionnés de voyageurs;YI;Matériel roulant des services nationaux de transport conventionnés;786;Frais d'enquêtes, d'études et de conseil relatifs au matériel roulant des services nationaux de transport conventionnés;2;;;
+917;Comptes d'affectation spéciale;3;Transition énergétique;YN;Soutien à la transition énergétique;764;Soutien aux énergies renouvelables électriques;1;;;
+918;Comptes d'affectation spéciale;3;Transition énergétique;YN;Soutien à la transition énergétique;764;Soutien à l'effacement de consommation électrique;2;;;
+919;Comptes d'affectation spéciale;3;Transition énergétique;YN;Soutien à la transition énergétique;764;Soutien à l'injection de bio-méthane;3;;;
+920;Comptes d'affectation spéciale;3;Transition énergétique;YN;Soutien à la transition énergétique;764;Fonds d'interconnexion;4;;;
+921;Comptes d'affectation spéciale;3;Transition énergétique;YN;Engagements financiers liés à la transition énergétique;765;Désendettement vis-à-vis des opérateurs supportant des charges de service public de l'électricité;1;;;
+922;Comptes d'affectation spéciale;3;Transition énergétique;YN;Engagements financiers liés à la transition énergétique;765;Remboursement d'anciens plafonnements de CSPE;3;;;
+923;Comptes de concours financiers;4;Accords monétaires internationaux;ZA;Relations avec l'Union monétaire ouest-africaine;811;Relations avec l'Union monétaire ouest-africaine;1;;;
+924;Comptes de concours financiers;4;Accords monétaires internationaux;ZA;Relations avec l'Union monétaire d'Afrique centrale;812;Relations avec l'Union monétaire d'Afrique centrale;1;;;
+925;Comptes de concours financiers;4;Accords monétaires internationaux;ZA;Relations avec l'Union des Comores;813;Relations avec l'Union des Comores;1;;;
+926;Comptes de concours financiers;4;Avances à divers services de l'État ou organismes gérant des services publics;ZB;Avances à l'Agence de services et de paiement, au titre du préfinancement des aides communautaires de la politique agricole commune;821;Avances au titre du préfinancement des aides communautaires de la politique agricole commune;1;;;
+927;Comptes de concours financiers;4;Avances à divers services de l'État ou organismes gérant des services publics;ZB;Avances à des organismes distincts de l'État et gérant des services publics;823;Avances à des organismes distincts de l'État et gérant des services publics;1;;;
+928;Comptes de concours financiers;4;Avances à divers services de l'État ou organismes gérant des services publics;ZB;Avances à des services de l'État;824;Avances au budget annexe « Contrôle et exploitation aériens »;1;;;
+929;Comptes de concours financiers;4;Avances à divers services de l'État ou organismes gérant des services publics;ZB;Avances à l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales (ONIAM) au titre de l'indemnisation des victimes du Benfluorex;825;Avances à l'ONIAM au titre de l'indemnisation des victimes du Benfluorex;1;;;
+930;Comptes de concours financiers;4;Avances à l'audiovisuel public;ZD;France Télévisions;841;France Télévisions;1;;;
+931;Comptes de concours financiers;4;Avances à l'audiovisuel public;ZD;ARTE France;842;ARTE France;1;;;
+932;Comptes de concours financiers;4;Avances à l'audiovisuel public;ZD;Radio France;843;Radio France;1;;;
+933;Comptes de concours financiers;4;Avances à l'audiovisuel public;ZD;France Médias Monde;844;France Médias Monde;1;;;
+934;Comptes de concours financiers;4;Avances à l'audiovisuel public;ZD;Institut national de l'audiovisuel;845;Institut national de l'audiovisuel;1;;;
+935;Comptes de concours financiers;4;Avances à l'audiovisuel public;ZD;TV5 Monde;847;TV5 Monde;1;;;
+936;Comptes de concours financiers;4;Avances aux collectivités territoriales;ZC;Avances aux collectivités et établissements publics, et à la Nouvelle-Calédonie;832;Avances de l'article 70 de la loi du 31 mars 1932 et de l'article L. 2336-1 du code général des collectivités territoriales;1;;;
+937;Comptes de concours financiers;4;Avances aux collectivités territoriales;ZC;Avances aux collectivités et établissements publics, et à la Nouvelle-Calédonie;832;Avances de l'article 14 de la loi n° 46-2921 du 23 décembre 1946 et de l'article L. 2237-2 du code général des collectivités territoriales;2;;;
+938;Comptes de concours financiers;4;Avances aux collectivités territoriales;ZC;Avances aux collectivités et établissements publics, et à la Nouvelle-Calédonie;832;Avances de l'article 34 de la loi n° 53-1336 du 31 décembre 1953 (avances spéciales sur recettes budgétaires);3;;;
+939;Comptes de concours financiers;4;Avances aux collectivités territoriales;ZC;Avances aux collectivités et établissements publics, et à la Nouvelle-Calédonie;832;Avances à la Nouvelle-Calédonie, au titre de la fiscalité du nickel;4;;;
+940;Comptes de concours financiers;4;Avances aux collectivités territoriales;ZC;Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes;833;Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes;1;;;
+941;Comptes de concours financiers;4;Avances aux collectivités territoriales;ZC;Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes;833;Avances aux départements sur le produit de la taxe intérieure de consommation sur les produits pétroliers;2;;;
+942;Comptes de concours financiers;4;Avances aux collectivités territoriales;ZC;Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes;833;Avances aux départements sur les frais de gestion de la taxe foncière sur les propriétés bâties;3;;;
+943;Comptes de concours financiers;4;Avances aux collectivités territoriales;ZC;Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes;833;Avances aux régions sur les frais de gestion de la contribution foncière des entreprises (CFE), de la contribution sur la valeur ajoutée des entreprises (CVAE) et de la taxe d'habitation (TH) et sur le produit de la taxe intérieure de consommation sur les;4;;;
+944;Comptes de concours financiers;4;Prêts à des États étrangers;ZE;Prêts à des États étrangers en vue de faciliter la vente de biens et de services concourant au développement du commerce extérieur de la France;851;Prêts à des États étrangers en vue de faciliter la vente de biens et de services concourant au développement du commerce extérieur de la France;1;;;
+945;Comptes de concours financiers;4;Prêts à des États étrangers;ZE;Prêts à des États étrangers pour consolidation de dettes envers la France;852;Prêts résultant de l'exécution d'accords conclus avec les gouvernements étrangers et portant consolidation des dettes de leur pays envers la France;1;;;
+946;Comptes de concours financiers;4;Prêts à des États étrangers;ZE;Prêts à l'Agence française de développement en vue de favoriser le développement économique et social dans des États étrangers;853;Prêts à l'Agence française de développement en vue de favoriser le développement économique et social dans des États étrangers;1;;;
+947;Comptes de concours financiers;4;Prêts à des États étrangers;ZE;Prêts aux États membres de l'Union européenne dont la monnaie est l'euro;854;Soutien financier aux États membres de lUnion européenne dont la monnaie est leuro;1;;;
+948;Comptes de concours financiers;4;Prêts et avances à des particuliers ou à des organismes privés;ZF;Prêts et avances pour le logement des agents de l'État;861;Avances aux agents de l'État à l'étranger pour la prise en location d'un logement;4;;;
+949;Comptes de concours financiers;4;Prêts et avances à des particuliers ou à des organismes privés;ZF;Prêts pour le développement économique et social;862;Prêts pour le développement économique et social;1;;;
+950;Comptes de concours financiers;4;Prêts et avances à des particuliers ou à des organismes privés;ZF;Prêts et avances pour le développement du commerce avec l'Iran;868;Prêts et avances pour le développement du commerce avec l'Iran;1;;;
+951;Comptes de concours financiers;4;Prêts et avances à des particuliers ou à des organismes privés;ZF;Prêts à la société concessionnaire de la liaison express entre Paris et l'aéroport Paris-Charles de Gaulle;869;Prêts à la société concessionnaire de la liaison express entre Paris et l'aéroport Paris-Charles de Gaulle;1;;;
+952;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Administration de  la dette viagère;1;Pensions militaires d'invalidité de victimes de guerre et allocations rattachées;10;
+953;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Administration de  la dette viagère;1;Retraite du combattant;11;
+954;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Gestion  des droits liés aux pensions militaires d'invalidité;2;Soins médicaux gratuits et appareillage des mutilés;21;
+955;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Gestion  des droits liés aux pensions militaires d'invalidité;2;Remboursement des réductions de transport accordées aux invalides;22;
+956;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Gestion  des droits liés aux pensions militaires d'invalidité;2;Remboursement des prestations de sécurité sociale aux invalides;23;
+957;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Solidarité;3;Fonds de solidarité pour les anciens combattants d'Afrique du Nord et d'Indochine;30;
+958;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Solidarité;3;Majoration des rentes mutualistes des anciens combattants et victimes de guerre;31;
+959;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Solidarité;3;Subventions aux associations et oeuvres diverses;32;
+960;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Solidarité;3;Indemnités, pécules et frais de voyages sur les tombes;33;
+961;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Solidarité;3;Action sociale en faveur du monde combattant : Office national des anciens combattants (ONAC);34;
+962;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Solidarité;3;Office national des anciens combattants (ONAC) : subventions;35;
+963;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Solidarité;3;Institution nationale des invalides : subventions;36;
+964;Budget général;1;Anciens combattants, mémoire et liens avec la nation;MB;Reconnaissance et réparation en faveur du monde combattant;169;Solidarité;3;Conseil national des communes compagnons de la libération - Subventions;37;
+965;Budget général;1;Défense;DA;Environnement et prospective de la politique de défense;144;Recherche et exploitation du renseignement intéressant la sécurité de la France;3;Renseignement extérieur;31;
+966;Budget général;1;Défense;DA;Environnement et prospective de la politique de défense;144;Recherche et exploitation du renseignement intéressant la sécurité de la France;3;Renseignement de sécurité de défense;32;
+967;Budget général;1;Défense;DA;Environnement et prospective de la politique de défense;144;Prospective de défense;7;Analyse stratégique;1;
+968;Budget général;1;Défense;DA;Environnement et prospective de la politique de défense;144;Prospective de défense;7;Prospective des systèmes de forces;2;
+969;Budget général;1;Défense;DA;Environnement et prospective de la politique de défense;144;Prospective de défense;7;Etudes amont;3;
+970;Budget général;1;Défense;DA;Environnement et prospective de la politique de défense;144;Prospective de défense;7;Gestion des moyens et subventions;4;
+971;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Planification  des moyens et conduite des opérations;1;Emploi des forces;10;
+972;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Planification  des moyens et conduite des opérations;1;Renseignement d'intérêt militaire;11;
+973;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Planification  des moyens et conduite des opérations;1;Systèmes d'information et de communication;14;
+974;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces terrestres;2;Commandement et activités des forces terrestres;1;
+975;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces terrestres;2;Ressources humaines des forces terrestres;5;
+976;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces terrestres;2;Maintien en condition opérationnelle du matériel des forces terrestres;7;
+977;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces terrestres;2;Environnement opérationnel des forces terrestres;8;
+978;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces navales;3;Commandement et activités des forces navales;1;
+979;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces navales;3;Ressources humaines des forces navales;5;
+980;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces navales;3;Maintien en condition opérationnelle du matériel des forces navales;7;
+981;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces navales;3;Environnement opérationnel des forces navales;8;
+982;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces aériennes;4;Commandement et activités centralisées des forces aériennes;2;
+983;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces aériennes;4;Activités des forces aériennes;3;
+984;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces aériennes;4;Activités des forces aériennes stratégiques;4;
+985;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces aériennes;4;Ressources humaines des forces aériennes;5;
+986;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces aériennes;4;Entretien et équipements des forces aériennes;6;
+987;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Préparation des forces aériennes;4;Service industriel aéronautique (SIAé);9;
+988;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Logistique et soutien interarmées;5;Fonction santé;80;
+989;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Logistique et soutien interarmées;5;Soutien des forces par les bases de défense;82;
+990;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Logistique et soutien interarmées;5;Soutiens complémentaires;83;
+991;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Logistique et soutien interarmées;5;Service interarmées des munitions;84;
+992;Budget général;1;Défense;DA;Préparation et emploi des forces;178;Logistique et soutien interarmées;5;Service du commissariat aux armées;85;
+993;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Politiques des ressources humaines;6;Reconversion;3;
+994;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Politiques des ressources humaines;6;Action sociale et autres politiques de ressources humaines (hors rémunérations des agents);4;
+995;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Politique culturelle et éducative;8;Actions culturelles et mise en valeur du patrimoine;1;
+996;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Politique culturelle et éducative;8;Gestion et communication des archives historiques de la défense;2;
+997;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Recherche et exploitation du renseignement intéressant la sécurité de la France - Personnel travaillant  pour le programme "Environnement et prospective de la politique de défense";50;Renseignement extérieur;1;
+998;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Recherche et exploitation du renseignement intéressant la sécurité de la France - Personnel travaillant  pour le programme "Environnement et prospective de la politique de défense";50;Renseignement de sécurité et de défense;2;
+999;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Prospective de défense - Personnel travaillant  pour le programme "Environnement et prospective de la politique de défense";51;DGRIS / Administration  centrale;1;
+1000;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Relations internationales;52;DGA / Soutien aux exportations;1;
+1001;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Relations internationales;52;DGRIS / Diplomatie de défense;2;
+1002;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Préparation et conduite des opérations d'armement - Personnel travaillant  pour le programme  "Équipement des forces ";53;Soutien aux opérations d'armement;1;
+1003;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme "Préparation et emploi des forces";54;Commandement des armées;1;
+1004;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme "Préparation et emploi des forces";54;Organismes interarmées à vocation opérationnelle;2;
+1005;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme "Préparation et emploi des forces";54;Organismes interarmées à vocation prospective et maîtrise des armements;3;
+1006;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme "Préparation et emploi des forces";54;Enseignement interarmées;4;
+1007;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme "Préparation et emploi des forces";54;EMA / Relations internationales militaires / PPE;5;
+1008;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme "Préparation et emploi des forces";54;Renseignement d'intérêt militaire;6;
+1009;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme "Préparation et emploi des forces";54;Systèmes d'information et de communication;7;
+1010;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Préparation des forces terrestres - Personnel travaillant pour le programme "Préparation et emploi des forces";55;Ressources humaines des forces terrestres;1;
+1011;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Préparation des forces navales - Personnel travaillant pour le programme "Préparation et emploi des forces";56;Ressources humaines des forces navales;1;
+1012;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Préparation des forces navales - Personnel travaillant pour le programme "Préparation et emploi des forces";56;Rémunérations des ouvriers de l'Etat de la DCNS;2;
+1013;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Préparation des forces aériennes- Personnel travaillant pour le programme "Préparation et emploi des forces";57;Ressources humaines des forces aériennes;1;
+1014;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Préparation des forces aériennes- Personnel travaillant pour le programme "Préparation et emploi des forces";57;Service industriel aéronautique(SIAé);2;
+1015;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Logistique et soutien interarmées - Personnel travaillant pour le programme "Préparation et emploi des forces";58;Fonction pétrolière;1;
+1016;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Logistique et soutien interarmées - Personnel travaillant pour le programme "Préparation et emploi des forces";58;Logistique et soutien interarmées / CICoS;2;
+1017;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Logistique et soutien interarmées - Personnel travaillant pour le programme "Préparation et emploi des forces";58;Soutiens complémentaires;3;
+1018;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Logistique et soutien interarmées - Personnel travaillant pour le programme "Préparation et emploi des forces";58;Service interarmées des munitions;4;
+1019;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Logistique et soutien interarmées - Personnel travaillant pour le programme "Préparation et emploi des forces";58;Service du commissariat des armées;5;
+1020;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Logistique et soutien interarmées - Personnel travaillant pour le programme "Préparation et emploi des forces";58;Fonction santé;6;
+1021;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Surcoûts liés aux opérations - Personnel travaillant pour le programme "Préparation et emploi des forces";59;Surcoûts liés aux opérations extérieures;1;
+1022;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Surcoûts liés aux opérations - Personnel travaillant pour le programme "Préparation et emploi des forces";59;Surcoûts liés aux opérations intérieures;2;
+1023;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Action sociale, chômage et pensions;61;Actions sociales et autres politiques des ressources humaines;1;
+1024;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Action sociale, chômage et pensions;61;Reconversion des personnels militaires - Chômage;2;
+1025;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Action sociale, chômage et pensions;61;Reconversion des personnels civils - Chômage;3;
+1026;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Restructurations - RH;63;Restructurations Personnels civils;1;
+1027;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Restructurations - RH;63;Restructurations Personnels militaires;2;
+1028;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Pilotage, soutien  -  Personnel travaillant pour l'action " Pilotage, soutien ";64;Personnel du SGA employeur;1;
+1029;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Pilotage, soutien  -  Personnel travaillant pour l'action " Pilotage, soutien ";64;Personnel de l'action sociale;7;
+1030;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Pilotage, soutien  -  Personnel travaillant pour l'action " Pilotage, soutien ";64;Personnel de l'agence de reconversion de la Défense;8;
+1031;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Rayonnement et contribution extérieure;66;Pilotage, soutien et communication - effectifs sortants remboursés sous PMEA Mindef;1;
+1032;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Rayonnement et contribution extérieure;66;Pilotage, soutien et communication - effectifs sortants non remboursés sous PMEA Mindef;2;
+1033;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Rayonnement et contribution extérieure;66;Pilotage, soutien et communication - effectifs sortants remboursés hors PMEA Mindef;3;
+1034;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Rayonnement et contribution extérieure;66;Pilotage, soutien et communication - Présidence de la République;4;
+1035;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Rayonnement et contribution extérieure;66;Pilotage, soutien et communication -  Elèves des classes préparatoires des lycées de la défense;5;
+1036;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;67;Sous-Direction des Bureau des Cabinets - Cabinet du Ministre de la Défense - Cabinet du Secrétaire d'Etat aux anciens combattants - Bureau des Officiers Généraux;1;
+1037;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;67;Contrôle général des armées;2;
+1038;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;67;Direction Générale du Numérique et des systèmes d'information et de communication;3;
+1039;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;67;Délégation à l'Information et la Communication de la Défense;4;
+1040;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;67;Gendarmerie de la Sureté de l'Armement Nucléaire;5;
+1041;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;67;Contrôle Budgétaire et Comptable Ministériel défense - Agence Comptable des Services Industriels de l'Armement;6;
+1042;Budget général;1;Défense;DA;Soutien de la politique de la défense;212;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;67;Direction de la Protection des Installations, moyens et activités de la Défense;7;
+1043;Budget général;1;Défense;DA;Équipement des forces;146;Dissuasion;6;Assurer la crédibilité technique de la dissuasion M51;14;
+1044;Budget général;1;Défense;DA;Équipement des forces;146;Dissuasion;6;Assurer la crédibilité technique de la dissuasion SNLE NG : adaptation M51;15;
+1045;Budget général;1;Défense;DA;Équipement des forces;146;Dissuasion;6;Assurer la crédibilité technique de la dissuasion - Air sol moyenne portée amélioré (ASMPA);17;
+1046;Budget général;1;Défense;DA;Équipement des forces;146;Dissuasion;6;Assurer la crédibilité technique de la dissuasion Simulation;18;
+1047;Budget général;1;Défense;DA;Équipement des forces;146;Dissuasion;6;Assurer la crédibilité technique de la dissuasion - Autres opérations;19;
+1048;Budget général;1;Défense;DA;Équipement des forces;146;Dissuasion;6;Assurer la crédibilité opérationnelle de la dissuasion - soutien et mise en oeuvre des forces - toutes opérations;22;
+1049;Budget général;1;Défense;DA;Équipement des forces;146;Dissuasion;6;Assurer la crédibilité technique de la posture - toutes opérations;23;
+1050;Budget général;1;Défense;DA;Équipement des forces;146;Dissuasion;6;Assurer la crédibilité technique de la dissuasion  SNLE 3G;24;
+1051;Budget général;1;Défense;DA;Équipement des forces;146;Commandement et maîtrise de l'information;7;Commander et conduire - Système de commandement et de conduite des opérations aériennes (SCCOA);24;
+1052;Budget général;1;Défense;DA;Équipement des forces;146;Commandement et maîtrise de l'information;7;Commander et conduire - Système d'information TERRE;25;
+1053;Budget général;1;Défense;DA;Équipement des forces;146;Commandement et maîtrise de l'information;7;Commander et conduire - Géographie numérique;27;
+1054;Budget général;1;Défense;DA;Équipement des forces;146;Commandement et maîtrise de l'information;7;Commander et conduire - Autres opérations;28;
+1055;Budget général;1;Défense;DA;Équipement des forces;146;Commandement et maîtrise de l'information;7;Commander et conduire - Système d'information des armées (SIA);29;
+1056;Budget général;1;Défense;DA;Équipement des forces;146;Commandement et maîtrise de l'information;7;Communiquer - Moyens de communication satellitaire;32;
+1057;Budget général;1;Défense;DA;Équipement des forces;146;Commandement et maîtrise de l'information;7;Communiquer - Autres opérations;35;
+1058;Budget général;1;Défense;DA;Équipement des forces;146;Commandement et maîtrise de l'information;7;Communiquer - CONTACT;36;
+1059;Budget général;1;Défense;DA;Équipement des forces;146;Commandement et maîtrise de l'information;7;Renseigner, surveiller, acquérir et reconnaître - Autres opérations;39;
+1060;Budget général;1;Défense;DA;Équipement des forces;146;Commandement et maîtrise de l'information;7;Renseigner, surveiller, acquérir et reconnaître - MUSIS;40;
+1061;Budget général;1;Défense;DA;Équipement des forces;146;Commandement et maîtrise de l'information;7;Communiquer - DESCARTES;41;
+1062;Budget général;1;Défense;DA;Équipement des forces;146;Commandement et maîtrise de l'information;7;Renseigner, surveiller, acquérir et reconnaître - CERES;42;
+1063;Budget général;1;Défense;DA;Équipement des forces;146;Projection - mobilité - soutien;8;Projeter les forces - Avion de transport futur (A400M);42;
+1064;Budget général;1;Défense;DA;Équipement des forces;146;Projection - mobilité - soutien;8;Projeter les forces - Autres opérations;43;
+1065;Budget général;1;Défense;DA;Équipement des forces;146;Projection - mobilité - soutien;8;Assurer la mobilité - Rénovation Cougar;46;
+1066;Budget général;1;Défense;DA;Équipement des forces;146;Projection - mobilité - soutien;8;Assurer la mobilité - Hélicoptère NH 90;47;
+1067;Budget général;1;Défense;DA;Équipement des forces;146;Projection - mobilité - soutien;8;Assurer la mobilité - Autres opérations;48;
+1068;Budget général;1;Défense;DA;Équipement des forces;146;Projection - mobilité - soutien;8;Maintenir le potentiel ami et autre - Porteur polyvalent terrestre (PPT);51;
+1069;Budget général;1;Défense;DA;Équipement des forces;146;Projection - mobilité - soutien;8;Maintenir le potentiel ami et autre - Autres opérations;53;
+1070;Budget général;1;Défense;DA;Équipement des forces;146;Projection - mobilité - soutien;8;Maintenir le potentiel ami et autre - MRTT;55;
+1071;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;Frapper à distance - Missile de croisière naval (MDCN);56;
+1072;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;Frapper à distance - RAFALE;59;
+1073;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;Frapper à distance - Autres opérations;61;
+1074;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;Opérer en milieu hostile - Véhicule blindé de combat d'infanterie (VBCI);66;
+1075;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;Opérer en milieu hostile - Hélicoptère HAP/HAD TIGRE;68;
+1076;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;Opérer en milieu hostile - Future torpille lourde (FTL);69;
+1077;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;Opérer en milieu hostile - Evolution Exocet;71;
+1078;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;Opérer en milieu hostile - Frégates multi-missions (FREMM);73;
+1079;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;Opérer en milieu hostile - SNA Barracuda;74;
+1080;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;Opérer en milieu hostile - Autres opérations et conduire des opérations spéciales;75;
+1081;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;Opérer en milieu hostile -  SCORPION;77;
+1082;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;Frapper à distance - Mirage 2000;78;
+1083;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;Opérer en milieu hostile - missile moyenne portée MMP;88;
+1084;Budget général;1;Défense;DA;Équipement des forces;146;Engagement et combat;9;Opérer en milieu hostile - Frégates de taille intermédiaire;89;
+1085;Budget général;1;Défense;DA;Équipement des forces;146;Protection et sauvegarde;10;Assurer la sûreté des approches - Autres opérations et assurer la sécurité de l'Etat, de la nation et des citoyens;79;
+1086;Budget général;1;Défense;DA;Équipement des forces;146;Protection et sauvegarde;10;Assurer la sûreté des approches - Alerte avancée;80;
+1087;Budget général;1;Défense;DA;Équipement des forces;146;Protection et sauvegarde;10;Assurer la protection des forces et des sites - Famille de systèmes sol-air futurs (FSAF);82;
+1088;Budget général;1;Défense;DA;Équipement des forces;146;Protection et sauvegarde;10;Assurer la protection des forces et des sites - Autres opérations et assurer la protection de l'homme;86;
+1089;Budget général;1;Défense;DA;Équipement des forces;146;Préparation et conduite des opérations d'armement;11;Fonctionnement et soutien DGA;89;
+1090;Budget général;1;Défense;DA;Équipement des forces;146;Préparation et conduite des opérations d'armement;11;Investissements pour les opérations d'armement;90;
+1091;Budget général;1;Défense;DA;Équipement des forces;146;Parts étrangères et programmes civils;12;Parts étrangères;96;
+1092;Budget général;1;Défense;DA;Équipement des forces;146;Parts étrangères et programmes civils;12;Programmes civils;97;
+1093;Budget général;1;Engagements financiers de l'État;EB;Appels en garantie de l'État (crédits évaluatifs);114;Développement international de l'économie française;4;Assurance-crédit;1;
+1094;Budget général;1;Engagements financiers de l'État;EB;Appels en garantie de l'État (crédits évaluatifs);114;Développement international de l'économie française;4;Assurance-prospection;2;
+1095;Budget général;1;Engagements financiers de l'État;EB;Appels en garantie de l'État (crédits évaluatifs);114;Développement international de l'économie française;4;Garantie de change;3;
+1096;Budget général;1;Engagements financiers de l'État;EB;Appels en garantie de l'État (crédits évaluatifs);114;Développement international de l'économie française;4;Garantie du risque économique;4;
+1097;Budget général;1;Engagements financiers de l'État;EB;Appels en garantie de l'État (crédits évaluatifs);114;Développement international de l'économie française;4;Garanties de taux d'intérêt Natixis;5;
+1098;Budget général;1;Engagements financiers de l'État;EB;Appels en garantie de l'État (crédits évaluatifs);114;Développement international de l'économie française;4;Garantie du risque exportateur;6;
+1099;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche dans le domaine des risques;11;Institut national de l'environnement industriel et des risques (INERIS);1;
+1100;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche dans le domaine des risques;11;Institut de radioprotection et de sûreté nucléaire (IRSN);2;
+1101;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche dans le domaine des transports, de la construction et de l'aménagement;12;Institut français des sciences et technologies des transports, de laménagement et des réseaux (IFSTTAR);1;
+1102;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche dans le domaine des transports, de la construction et de l'aménagement;12;Centre scientifique et technique du bâtiment (CSTB);3;
+1103;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche partenariale dans le développement et l'aménagement durable;13;Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES);1;
+1104;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche partenariale dans le développement et l'aménagement durable;13;Agence de l'environnement et de la maîtrise de l'énergie (ADEME);2;
+1105;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche partenariale dans le développement et l'aménagement durable;13;Recherche en matière de transport (PREDIT);4;
+1106;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche partenariale dans le développement et l'aménagement durable;13;Construction (PREBAT, C2D2, RGCU);5;
+1107;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche partenariale dans le développement et l'aménagement durable;13;Urbanisme et territoire (PUCA, MUTS);6;
+1108;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche partenariale dans le développement et l'aménagement durable;13;Changement global (GMES, adaptation au changement climatique);7;
+1109;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche partenariale dans le développement et l'aménagement durable;13;Risque, santé, environnement;8;
+1110;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche partenariale dans le développement et l'aménagement durable;13;Biodiversité;9;
+1111;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche partenariale dans le développement et l'aménagement durable;13;Innovation et prospective dans le domaine du développement et de l'aménagement durable;10;
+1112;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche et développement dans le domaine de l'aéronautique civile;14;Recherches en amont;1;
+1113;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche et développement dans le domaine de l'aéronautique civile;14;Subventions à des organismes de recherche;2;
+1114;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche et développement dans le domaine de l'aéronautique civile;14;Equipementier;3;
+1115;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche et développement dans le domaine de l'aéronautique civile;14;Avions;4;
+1116;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche et développement dans le domaine de l'aéronautique civile;14;Moteurs;5;
+1117;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche et développement dans le domaine de l'aéronautique civile;14;Hélicoptères;6;
+1118;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche dans le domaine de l'énergie nucléaire;16;Soutien aux activités nucléaires du CEA;1;
+1119;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche dans le domaine de l'énergie nucléaire;16;Gestion des matières et déchets radioactifs-CNE-reprise des ressources;2;
+1120;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche dans le domaine des nouvelles technologies de l'énergie;17;Soutien aux nouvelles technologies de l'énergie (CEA);1;
+1121;Budget général;1;Recherche et enseignement supérieur;RA;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;190;Recherche dans le domaine des nouvelles technologies de l'énergie;17;Soutien aux nouvelles technologies de l'énergie (IFPEN);2;
+1122;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et restitutions liés à la mécanique de l'impôt;11;Impôts sur les sociétés;1;
+1123;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et restitutions liés à la mécanique de l'impôt;11;Taxe sur la valeur ajoutée;2;
+1124;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et restitutions liés à la mécanique de l'impôt;11;Plafonnement des impositions directes;3;
+1125;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et restitutions liés à la mécanique de l'impôt;11;Autres remboursements et dégrèvements liés à la mécanique de limpôt;4;
+1126;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et restitutions liés à la mécanique de l'impôt;11;Impôt sur le revenu;5;
+1127;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liées à des politiques publiques;12;Impôt sur le revenu;2;
+1128;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liées à des politiques publiques;12;Impôt sur les sociétés;3;
+1129;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liées à des politiques publiques;12;Taxe intérieure sur les produits pétroliers;4;
+1130;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liées à des politiques publiques;12;Taxe intérieure de consommation sur le gaz naturel;5;
+1131;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liées à des politiques publiques;12;Contribution pour l'audiovisuel public;6;
+1132;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liées à des politiques publiques;12;Prélèvement sur le produit des jeux;7;
+1133;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liées à des politiques publiques;12;Acomptes de crédits et de réductions d'impôts sur le revenu;8;
+1134;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;13;Impôts sur le revenu - Dégrèvements et restitution de sommes indûment perçues;1;
+1135;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;13;Impôts sur les sociétés - Dégrèvements et restitution de sommes indûment perçues;2;
+1136;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;13;Autres impôts directs et taxes assimilées - Dégrèvements et restitution de sommes indûment perçues;3;
+1137;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;13;Taxe sur la valeur ajoutée - Dégrèvements et restitution de sommes indûment perçues;4;
+1138;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;13;Enregistrement, timbre, autres contributions et taxes indirectes - Dégrèvements et restitution de sommes indûment perçues;5;
+1139;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;13;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat;6;
+1140;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;13;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Admissions en non valeur - Créances liées aux impôts;7;
+1141;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;13;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;8;
+1142;Budget général;1;Remboursements et dégrèvements;RD;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);200;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;13;Prélèvement à la source (PAS) : dégrèvements et restitutions;13;
+1143;Budget général;1;Sécurités;SB;Police nationale;176;Ordre public et protection de la souveraineté;1;Ordre public et protection de la souveraineté - Administration centrale et cabinets;1;
+1144;Budget général;1;Sécurités;SB;Police nationale;176;Ordre public et protection de la souveraineté;1;Ordre public et protection de la souveraineté - Hors administration centrale et cabinets;2;
+1145;Budget général;1;Sécurités;SB;Police nationale;176;Sécurité et paix publiques;2;Sécurité et paix publiques - Administration centrale et cabinets;1;
+1146;Budget général;1;Sécurités;SB;Police nationale;176;Sécurité et paix publiques;2;Sécurité et paix publiques - Hors administration centrale et cabinet;2;
+1147;Budget général;1;Sécurités;SB;Police nationale;176;Sécurité routière;3;Sécurité routière  - Administration centrale et cabinet;1;
+1148;Budget général;1;Sécurités;SB;Police nationale;176;Sécurité routière;3;Sécurité routière - Hors administration centrale et cabinets;2;
+1149;Budget général;1;Sécurités;SB;Police nationale;176;Police des étrangers et sûreté des transports internationaux;4;Autres actions relatives à la police des étrangers et à la sureté des transports internationaux - Administration centrale et cabinets;3;
+1150;Budget général;1;Sécurités;SB;Police nationale;176;Police des étrangers et sûreté des transports internationaux;4;Autres actions relatives à la police des étrangers et à la sureté des transports internationaux - Hors administration centrale et cabinets;4;
+1151;Budget général;1;Sécurités;SB;Police nationale;176;Missions de police judiciaire et concours à la justice;5;Missions de police judiciaire et concours à la justice - Administration centrale et cabinets;1;
+1152;Budget général;1;Sécurités;SB;Police nationale;176;Missions de police judiciaire et concours à la justice;5;Missions de police judiciaire et concours à la justice - Hors administration centrale et cabinets;2;
+1153;Budget général;1;Sécurités;SB;Police nationale;176;Commandement, ressources humaines et logistique;6;Formation;1;
+1154;Budget général;1;Sécurités;SB;Police nationale;176;Commandement, ressources humaines et logistique;6;Action sociale;2;
+1155;Budget général;1;Sécurités;SB;Police nationale;176;Commandement, ressources humaines et logistique;6;Immobilier;3;
+1156;Budget général;1;Sécurités;SB;Police nationale;176;Commandement, ressources humaines et logistique;6;Système d'information et de communication : ACROPOL;4;
+1157;Budget général;1;Sécurités;SB;Police nationale;176;Commandement, ressources humaines et logistique;6;Système d'information et de communication : hors ACROPOL;5;
+1158;Budget général;1;Sécurités;SB;Police nationale;176;Commandement, ressources humaines et logistique;6;Soutien (autres dépenses);7;
+1159;Budget général;1;Sécurités;SB;Police nationale;176;Commandement, ressources humaines et logistique;6;Soutien (autres dépenses) - Administration centrale et cabinets;8;
+1160;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Ordre et sécurité publics;1;Ordre et sécurité publics - hors administration centrale et cabinet;1;
+1161;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Ordre et sécurité publics;1;Ordre et sécurité publics -  administration centrale et cabinet;2;
+1162;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Sécurité routière;2;Sécurité routière - hors administration centrale et cabinet;1;
+1163;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Sécurité routière;2;Sécurité routière - administration centrale et cabinet;2;
+1164;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Missions de police judiciaire et concours à la justice;3;Missions de police judiciaire et concours à la justice - hors administration centrale et cabinet;1;
+1165;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Missions de police judiciaire et concours à la justice;3;Missions de police judiciaire et concours à la justice - administration centrale et cabinet;2;
+1166;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Commandement, ressources humaines et logistique;4;Commandement, ressources humaines et logistique;1;
+1167;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Commandement, ressources humaines et logistique;4;Commandement, ressources humaines et logistique - administration centrale et cabinet;2;
+1168;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Exercice des missions militaires;5;Exercice des missions militaires - hors administration centrale et cabinet;1;
+1169;Budget général;1;Sécurités;SB;Gendarmerie nationale;152;Exercice des missions militaires;5;Exercice des missions militaires - administration centrale et cabinet;2;
+1170;Budget général;1;Travail et emploi;TB;Accès et retour à l'emploi;102;Amélioration de lefficacité du service public de lemploi;1;Indemnisation des demandeurs d'emploi;1;
+1171;Budget général;1;Travail et emploi;TB;Accès et retour à l'emploi;102;Amélioration de lefficacité du service public de lemploi;1;Coordination du service public de l'emploi;2;
+1172;Budget général;1;Travail et emploi;TB;Accès et retour à l'emploi;102;Amélioration des dispositifs en faveur de lemploi des personnes les plus éloignées du marché du travail;2;Insertion dans l'emploi au moyen de contrats aidés;1;
+1173;Budget général;1;Travail et emploi;TB;Accès et retour à l'emploi;102;Amélioration des dispositifs en faveur de lemploi des personnes les plus éloignées du marché du travail;2;Accompagnement des publics les plus en difficultés;2;
+1174;Budget général;1;Travail et emploi;TB;Accompagnement des mutations économiques et développement de l'emploi;103;Anticipation et accompagnement des conséquences des mutations économiques sur l'emploi;1;Développement de lemploi en TPE-PME;1;
+1175;Budget général;1;Travail et emploi;TB;Accompagnement des mutations économiques et développement de l'emploi;103;Anticipation et accompagnement des conséquences des mutations économiques sur l'emploi;1;Implication des branches et des entreprises dans la prévention du licenciement et le reclassement des salariés;2;
+1176;Budget général;1;Travail et emploi;TB;Accompagnement des mutations économiques et développement de l'emploi;103;Amélioration de l'insertion dans l'emploi par l'adaptation des qualifications et la reconnaissance des compétences;2;Reconnaissance des compétences acquises par les personnes;3;
+1177;Budget général;1;Travail et emploi;TB;Accompagnement des mutations économiques et développement de l'emploi;103;Amélioration de l'insertion dans l'emploi par l'adaptation des qualifications et la reconnaissance des compétences;2;Amélioration de l'accès à la qualification par le développement de l'alternance et de la certification;4;
+1178;Budget général;1;Travail et emploi;TB;Accompagnement des mutations économiques et développement de l'emploi;103;Développement de l'emploi;3;Baisse du coût du travail pour faciliter le développement de territoires et de secteurs à forts potentiels d'emploi;1;
+1179;Budget général;1;Travail et emploi;TB;Accompagnement des mutations économiques et développement de l'emploi;103;Développement de l'emploi;3;Promotion de l'activité;2;
