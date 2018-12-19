@@ -16,27 +16,32 @@ MIN_YEAR = 2012
 
 class NodeHistory(Resource):
     @staticmethod
-    def compute_indices_per_year(source_year, target_year, index, future=True):
-        content = requests.get('{}/plf_mappings/plf{}_to_plf{}.csv'.format(
+    def get_neighbour(source_year, target_year, node_id):
+        content = requests.get('{}/plf_mappings/plf{}_to_plf{}.json'.format(
             MAPPINGS_URL,
             source_year,
             target_year
         )).content.decode(ENCODING)
 
-        for row in csv.reader(StringIO(content), delimiter=';'):
-            source_index, target_index, distance = row
-            source_index = int(source_index)
-            target_index = int(target_index)
-            distance = float(distance)
+        mapping = json.loads(content)
 
-            if future:
-                if source_index == index:
-                    return(target_index)
-            else:
-                if target_index == index:
-                    return(source_index)
+        r = mapping[node_id][0]
 
-        return None
+        content = requests.get('{}/plf_flat_by_code/plf_{}_flat.json'.format(
+            MAPPINGS_URL,
+            target_year
+        )).content.decode(ENCODING)
+
+        print('content {}'.format(target_year))
+
+        if content:
+            flat_plf = json.loads(content)
+            key = '-'.join(r['codes'])
+            info = flat_plf[key]
+            r['ae'] = info['ae']
+            r['cp'] = info['cp']
+
+        return r
 
     @staticmethod
     def get(year, node_id):
@@ -44,45 +49,14 @@ class NodeHistory(Resource):
 
         print('Was called with {} {}'.format(year, node_id))
 
-        node_id_history = {}
-        for current_year in range(MIN_YEAR, MAX_YEAR+1):
-            node_id_history[current_year] = {'index': None}
-        node_id_history[year] = {'index': node_id}
+        node_id_history = dict()
 
-        # Fetch mapping in the future
-        for current_year in range(year, MAX_YEAR):
-            print(current_year, current_year+1)
-            next_index = NodeHistory.compute_indices_per_year(current_year, current_year+1, node_id_history[current_year]['index'], future=True)
-            if next_index:
-                node_id_history[current_year+1]['index'] = next_index
-            else:
-                break
+        # Fetch following years
+        for y in range(year, MAX_YEAR):
+            node_id_history[y+1] = NodeHistory.get_neighbour(y, y+1, node_id)
 
-        # Fetch mapping in the past
-        for current_year in list(reversed(range(MIN_YEAR, year))):
-            print(current_year, current_year+1)
-            next_index = NodeHistory.compute_indices_per_year(current_year, current_year+1, node_id_history[current_year+1]['index'], future=False)
-            if next_index:
-                node_id_history[current_year]['index'] = next_index
-            else:
-                break
-
-        # Add names
-        for current_year in node_id_history:
-            content = requests.get('{}/plf_all_nodes/plf{}.csv'.format(
-                MAPPINGS_URL,
-                current_year
-            )).content.decode(ENCODING)
-
-            for row_index, row in enumerate(csv.reader(StringIO(content), delimiter=';')):
-                if row_index == 0:
-                    continue
-                node_index = int(row[0])
-                if node_index == node_id_history[current_year]['index']:
-                    node_id_history[current_year]['type_mission'] = row[1]
-                    node_id_history[current_year]['mission'] = row[3]
-                    node_id_history[current_year]['programme'] = row[5]
-                    node_id_history[current_year]['action'] = row[7]
-                    node_id_history[current_year]['sous-action'] = row[9]
+        # Fetch previous years
+        for y in range(year, MIN_YEAR, -1):
+            node_id_history[y-1] = NodeHistory.get_neighbour(y, y-1, node_id)
 
         return jsonify(node_id_history)

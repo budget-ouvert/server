@@ -7,8 +7,7 @@ from api.plf import NodeHistory
 app = Flask(__name__)
 api = Api(app)
 
-api.add_resource(NodeHistory, '/node_history/<int:year>/<int:node_id>')
-
+api.add_resource(NodeHistory, '/node_history/<int:year>/<string:node_id>')
 
 if __name__ == '__main__':
     app.run(debug=True)
