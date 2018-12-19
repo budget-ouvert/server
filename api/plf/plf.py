@@ -10,14 +10,14 @@ from api.common.utils import file_response
 
 ENCODING = 'utf-8'
 MAPPINGS_URL = 'http://127.0.0.1:8080'
-MAX_YEAR = 2018
+MAX_YEAR = 2019
 MIN_YEAR = 2012
 
 
 class NodeHistory(Resource):
     @staticmethod
     def get_neighbour(source_year, target_year, node_id):
-        content = requests.get('{}/plf_mappings/plf{}_to_plf{}.json'.format(
+        content = requests.get('{}/plf_mappings/plf_{}_to_plf_{}.json'.format(
             MAPPINGS_URL,
             source_year,
             target_year
@@ -40,6 +40,7 @@ class NodeHistory(Resource):
             info = flat_plf[key]
             r['ae'] = info['ae']
             r['cp'] = info['cp']
+            r['size'] = info['size']
 
         return r
 
