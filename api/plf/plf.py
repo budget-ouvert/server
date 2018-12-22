@@ -11,12 +11,19 @@ from api.common.utils import file_response
 ENCODING = 'utf-8'
 MAPPINGS_URL = 'http://127.0.0.1:8080'
 MAX_YEAR = 2019
-MIN_YEAR = 2012
+MIN_YEAR = 2016
 
 
 class NodeHistory(Resource):
     @staticmethod
     def get_neighbour(source_year, target_year, node_id):
+        if node_id in ['PLF', 'REC']:
+            return {
+                'codes': [node_id],
+                'distance': 0.0,
+                'libelles': [node_id]
+            }
+
         content = requests.get('{}/plf_mappings/plf_{}_to_plf_{}.json'.format(
             MAPPINGS_URL,
             source_year,
@@ -27,22 +34,29 @@ class NodeHistory(Resource):
 
         r = mapping[node_id][0]
 
+        return r
+
+    @staticmethod
+    def get_node_information(year, node):
         content = requests.get('{}/plf_flat_by_code/plf_{}_flat.json'.format(
             MAPPINGS_URL,
-            target_year
+            year
         )).content.decode(ENCODING)
 
-        print('content {}'.format(target_year))
+        print('content {}'.format(year))
 
         if content:
             flat_plf = json.loads(content)
-            key = '-'.join(r['codes'])
-            info = flat_plf[key]
-            r['ae'] = info['ae']
-            r['cp'] = info['cp']
-            r['size'] = info['size']
+            key = '-'.join(node['codes'])
+            print(key)
 
-        return r
+            if key in flat_plf:
+                info = flat_plf[key]
+                node['ae'] = info['ae']
+                node['cp'] = info['cp']
+            else:
+                node['ae'] = 0
+                node['cp'] = 0
 
     @staticmethod
     def get(year, node_id):
@@ -50,14 +64,21 @@ class NodeHistory(Resource):
 
         print('Was called with {} {}'.format(year, node_id))
 
-        node_id_history = dict()
+        node_id_history = {}
+        node_id_history[year] = {
+            'codes': node_id.split('-')
+        }
 
-        # Fetch following years
+        # Fetch following years' codes
         for y in range(year, MAX_YEAR):
             node_id_history[y+1] = NodeHistory.get_neighbour(y, y+1, node_id)
 
-        # Fetch previous years
+        # Fetch previous years' codes
         for y in range(year, MIN_YEAR, -1):
             node_id_history[y-1] = NodeHistory.get_neighbour(y, y-1, node_id)
+
+        # Fetch ae and cp for each year if possible
+        for y in node_id_history:
+            NodeHistory.get_node_information(y, node_id_history[y])
 
         return jsonify(node_id_history)
