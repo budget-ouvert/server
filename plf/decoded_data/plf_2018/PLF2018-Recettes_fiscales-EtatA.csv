@@ -5,12 +5,12 @@ Numérode ligne;Intitulé de la recette;Évaluation pour 2018
 ;1. Recettes fiscales;
 ;11. Impôt sur le revenu ;78470919000
 1101;Impôt sur le revenu;78470919000
-;12. Autres impôts directs perçus par voie d'émission de rôles ;3067756000
+;12. Autres impôts directs perçus par voie d'émission de rôles ;3067756000 
 1201;Autres impôts directs perçus par voie d'émission de rôles;3067756000
-;13. Impôt sur les sociétés ;59017000000
+;13. Impôt sur les sociétés ;59017000000 
 1301;Impôt sur les sociétés;57726000000
 1302;Contribution sociale sur les bénéfices des sociétés;1291000000
-;14. Autres impôts directs et taxes assimilées ;10701699000
+;14. Autres impôts directs et taxes assimilées ;10701699000 
 1401;Retenues à la source sur certains bénéfices non commerciaux et de l'impôt sur le revenu;681184000
 1402;Retenues à la source et prélèvements sur les revenus de capitaux mobiliers et le prélèvement sur les bons anonymes;3611875000
 1403;Prélèvements sur les bénéfices tirés de la construction immobilière (loi n°63-254 du 15 mars 1963 art 28-IV);0
@@ -31,11 +31,11 @@ Numérode ligne;Intitulé de la recette;Évaluation pour 2018
 1497;Cotisation sur la valeur ajoutée des entreprises (affectation temporaire à l'État en 2010);0
 1498;Cotisation foncière des entreprises (affectation temporaire à l'État en 2010);0
 1499;Recettes diverses;825680000
-;15. Taxe intérieure de consommation sur les produits énergétiques ;13340787000
+;15. Taxe intérieure de consommation sur les produits énergétiques ;13340787000 
 1501;Taxe intérieure de consommation sur les produits énergétiques;13340787000
-;16. Taxe sur la valeur ajoutée ;206421616000
+;16. Taxe sur la valeur ajoutée ;206421616000 
 1601;Taxe sur la valeur ajoutée;206421616000
-;17. Enregistrement, timbre, autres contributions et taxes indirectes ;32957910000
+;17. Enregistrement, timbre, autres contributions et taxes indirectes ;32957910000 
 1701;Mutations à titre onéreux de créances, rentes, prix d'offices;503965000
 1702;Mutations à titre onéreux de fonds de commerce;167646000
 1703;Mutations à titre onéreux de meubles corporels;1029000
@@ -81,12 +81,12 @@ Numérode ligne;Intitulé de la recette;Évaluation pour 2018
 1798;Impositions forfaitaires sur les entreprises de réseaux (affectation temporaire à l'Etat en 2010);0
 1799;Autres taxes;578659000
 ;2. Recettes non fiscales;
-;21. Dividendes et recettes assimilées ;5270859000
+;21. Dividendes et recettes assimilées ;5270859000 
 2110;Produits des participations de l'État dans des entreprises financières;3017759000
 2111;Contribution de la Caisse des dépôts et consignations représentative de l'impôt sur les sociétés;447000000
 2116;Produits des participations de l'État dans des entreprises non financières et bénéfices des établissements publics non financiers;1806100000
 2199;Autres dividendes et recettes assimilées;0
-;22. Produits du domaine de l'État ;2440000000
+;22. Produits du domaine de l'État ;2440000000 
 2201;Revenus du domaine public non militaire;127000000
 2202;Autres revenus du domaine public;173000000
 2203;Revenus du domaine privé;0
@@ -95,14 +95,14 @@ Numérode ligne;Intitulé de la recette;Évaluation pour 2018
 2211;Produit de la cession d'éléments du patrimoine immobilier de l'État;0
 2212;Autres produits de cessions d'actifs;0
 2299;Autres revenus du Domaine;10000000
-;23. Produits de la vente de biens et services ;1113066000
+;23. Produits de la vente de biens et services ;1113066000 
 2301;Remboursement par l'Union européenne des frais d'assiette et de perception des impôts et taxes perçus au profit de son budget;437450000
 2303;Autres frais d'assiette et de recouvrement;606231000
 2304;Rémunération des prestations assurées par les services du Trésor Public au titre de la collecte de l'épargne;51078000
 2305;Produits de la vente de divers biens;33000
 2306;Produits de la vente de divers services;4567000
 2399;Autres recettes diverses;13707000
-;24. Remboursements et intérêts des prêts, avances et autres immobilisations financières ;460781000
+;24. Remboursements et intérêts des prêts, avances et autres immobilisations financières ;460781000 
 2401;Intérêts des prêts à des banques et à des États étrangers;162391000
 2402;Intérêts des prêts du fonds de développement économique et social;6100000
 2403;Intérêts des avances à divers services de l'État ou organismes gérant des services publics;23000000
@@ -111,7 +111,7 @@ Numérode ligne;Intitulé de la recette;Évaluation pour 2018
 2412;Autres avances remboursables sous conditions;1333000
 2413;Reversement au titre des créances garanties par l'État;13614000
 2499;Autres remboursements d'avances, de prêts et d'autres créances immobilisées;24142000
-;25. Amendes, sanctions, pénalités et frais de poursuites ;1581879000
+;25. Amendes, sanctions, pénalités et frais de poursuites ;1581879000 
 2501;Produits des amendes de la police de la circulation et du stationnement routiers;531570000
 2502;Produits des amendes prononcées par les autorités de la concurrence;500000000
 2503;Produits des amendes prononcées par les autres autorités administratives indépendantes;50000000
@@ -121,7 +121,7 @@ Numérode ligne;Intitulé de la recette;Évaluation pour 2018
 2511;Frais de justice et d'instance;12828000
 2512;Intérêts moratoires;12000
 2513;Pénalités;12328000
-;26. Divers ;2365183000
+;26. Divers ;2365183000 
 2601;Reversements de Natixis;50000000
 2602;Reversements au titre des procédures de soutien financier au commerce extérieur;587650000
 2603;Prélèvements sur les fonds d'épargne gérés par la Caisse des Dépôts et Consignations;500000000
@@ -146,7 +146,7 @@ Numérode ligne;Intitulé de la recette;Évaluation pour 2018
 2698;Produits divers;30000000
 2699;Autres produits divers;223655000
 ;3. Prélèvements sur les recettes de l'État;
-;31. Prélèvements sur les recettes de l'État au profit des collectivités territoriales ;40326598000
+;31. Prélèvements sur les recettes de l'État au profit des collectivités territoriales ;40326598000 
 3101;Prélèvement sur les recettes de l'État au titre de la dotation globale de fonctionnement;27050322000
 3103;Prélèvement sur les recettes de l'État au titre de la dotation spéciale pour le logement des instituteurs;12728000
 3104;Dotation de compensation des pertes de bases de la taxe professionnelle et de redevance des mines des communes et de leurs groupements;73500000
@@ -169,7 +169,7 @@ Numérode ligne;Intitulé de la recette;Évaluation pour 2018
 3134;Dotation de garantie des reversements des fonds départementaux de taxe professionnelle;323508000
 3135;Prélèvement sur les recettes de l'État au titre de la compensation des pertes de recettes liées au relèvement du seuil d'assujettissement des entreprises au versement transport;82000000
 3136;Prélèvement sur les recettes de lÉtat au profit de la collectivité territoriale de Guyane;18000000
-;32. Prélèvement sur les recettes de l'État au profit de l'Union européenne ;20212000000
+;32. Prélèvement sur les recettes de l'État au profit de l'Union européenne ;20212000000 
 3201;Prélèvement sur les recettes de l'État au profit du budget de l'Union européenne;20212000000
 ;4. Fonds de concours;
-;41. Évaluation des fonds de concours;3331530767
+;Évaluation des fonds de concours;3331530767
