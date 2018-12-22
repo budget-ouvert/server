@@ -32,7 +32,15 @@ class NodeHistory(Resource):
 
         mapping = json.loads(content)
 
-        r = mapping[node_id][0]
+        if node_id in mapping:
+            r = mapping[node_id][0]
+        else:
+            r = dict({
+                'distance': None,
+                'codes': [],
+                'libelles': [],
+                'error': 'Not found'
+            })
 
         return r
 
