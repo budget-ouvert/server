@@ -74,7 +74,8 @@ class NodeHistory(Resource):
 
         node_id_history = {}
         node_id_history[year] = {
-            'codes': node_id.split('-')
+            'codes': node_id.split('-'),
+            'selected': True,
         }
 
         # Fetch following years' codes
