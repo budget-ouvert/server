@@ -2,4 +2,4 @@ requests>=2.20.0
 Flask==1.0.2
 Flask_RESTful==0.3.6
 PyYAML==3.13
-flask-cors=3.0.7
+flask-cors==3.0.7
